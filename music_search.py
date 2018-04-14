@@ -13,8 +13,7 @@ def artist(audio, filename):
     try:
         print("Artist: %s" % audio['TPE1'].text[0])
     except Exception as error:
-        print("filename: " + filename)
-        print(error)
+        print(error, " - Artist not found.")
 
 
 def album(audio, filename):
@@ -22,8 +21,7 @@ def album(audio, filename):
     try:
         print("Album: %s" % audio['TALB'].text[0])
     except Exception as error:
-        print("filename: " + filename)
-        print(error)
+        print(error, " - Album not found.")
 
 
 def trackno(audio, filename):
@@ -31,8 +29,7 @@ def trackno(audio, filename):
     try:
         print("Track #: %s" % audio['TRCK'].text[0])
     except Exception as error:
-        print("filename: " + filename)
-        print(error)
+        print(error, " - Track number not found.")
 
 
 def trackna(audio, filename):
@@ -40,8 +37,7 @@ def trackna(audio, filename):
     try:
         print("Track: %s" % audio["TIT2"].text[0])
     except Exception as error:
-        print("filename: " + filename)
-        print(error)
+        print(error, " - Track name not found.")
 
 
 def length(audio, filename):
@@ -49,8 +45,15 @@ def length(audio, filename):
     try:
         print("Length: %s" % audio['TLEN'].text[0])
     except Exception as error:
-        print("filename: " + filename)
-        print(error)
+        print(error, " - Length not found.")
+
+
+def genre(audio, filename):
+    """Print the genre."""
+    try:
+        print("Genre: %s" % audio['TCON'].text[0])
+    except Exception as error:
+        print(error, " - Genre not found.")
 
 
 def year(audio, filename):
@@ -58,16 +61,13 @@ def year(audio, filename):
     try:
         print("Release Year: %s" % audio["TDRC"].text[0])
     except Exception as error:
-        print("filename: " + filename)
-        print(error)
+        print(error, " - Year not found.")
 
 
 def main():
     """Main controller."""
     # Specify the root directory
     path = "/home/mark/Music/"
-    # This version selects the user's home directory for the root
-    # path = expanduser("~")
 
     # List of the filetypes that are supported by the program
     # ext = ('.mp3', '.ogg', '.flac')
@@ -80,14 +80,15 @@ def main():
     for root, subdir, files in os.walk(path):
         for filename in files:
             filename = os.path.join(root, filename)
-            audio = mutagen.File(filename)
             if filename.endswith('.mp3'):
                 try:
+                    audio = MP3(filename)
                     artist(audio, filename) or \
                         album(audio, filename) or \
                         trackno(audio, filename) or \
                         trackna(audio, filename) or \
                         length(audio, filename) or \
+                        genre(audio, filename) or \
                         year(audio, filename)
                 except Exception as error:
                     print("mp3 - " + filename)
