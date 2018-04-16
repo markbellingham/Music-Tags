@@ -358,149 +358,149 @@ Length: 132240
 Genre: Rock
 Release Year: 1994
 
-flac title:  Underneath It All
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Underneath It All
+flac track #:  10
 genre:  Electronic
 duration:  186.62666666666667
-error -  'albumartist'
 
-flac title:  Destroyer
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  Destroyer
+flac track #:  12
 genre:  Electronic
 duration:  141.76
-error -  'albumartist'
 
-flac title:  Rock In The Rain
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  7
+'albumartist'  - Album artist not found
+flac track:  Rock In The Rain
+flac track #:  7
 genre:  Electronic
 duration:  218.33333333333334
-error -  'albumartist'
 
-flac title:  Crowns
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  8
+'albumartist'  - Album artist not found
+flac track:  Crowns
+flac track #:  8
 genre:  Electronic
 duration:  206.86666666666667
-error -  'albumartist'
 
-flac title:  Tomorrow Will Be Like Today
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  4
+'albumartist'  - Album artist not found
+flac track:  Tomorrow Will Be Like Today
+flac track #:  4
 genre:  Electronic
 duration:  216.77333333333334
-error -  'albumartist'
 
-flac title:  Push The Button
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  1
+'albumartist'  - Album artist not found
+flac track:  Push The Button
+flac track #:  1
 genre:  Electronic
 duration:  176.84
-error -  'albumartist'
 
-flac title:  Powerhouse
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  17
+'albumartist'  - Album artist not found
+flac track:  Powerhouse
+flac track #:  17
 genre:  Electronic
 duration:  214.33333333333334
-error -  'albumartist'
 
-flac title:  I Don't Play Piano
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  I Don't Play Piano
+flac track #:  11
 genre:  Electronic
 duration:  252.64
-error -  'albumartist'
 
-flac title:  Maybe I'm Dead
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  15
+'albumartist'  - Album artist not found
+flac track:  Maybe I'm Dead
+flac track #:  15
 genre:  Electronic
 duration:  242.84
-error -  'albumartist'
 
-flac title:  Bossa Nova 101
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  6
+'albumartist'  - Album artist not found
+flac track:  Bossa Nova 101
+flac track #:  6
 genre:  Electronic
 duration:  75.8
-error -  'albumartist'
 
-flac title:  Hand In Your Head
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  13
+'albumartist'  - Album artist not found
+flac track:  Hand In Your Head
+flac track #:  13
 genre:  Electronic
 duration:  226.46666666666667
-error -  'albumartist'
 
-flac title:  Too Like You
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  2
+'albumartist'  - Album artist not found
+flac track:  Too Like You
+flac track #:  2
 genre:  Electronic
 duration:  166.46666666666667
-error -  'albumartist'
 
-flac title:  Monkey Dot
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  3
+'albumartist'  - Album artist not found
+flac track:  Monkey Dot
+flac track #:  3
 genre:  Electronic
 duration:  122.56
-error -  'albumartist'
 
-flac title:  Harmonics Of Life
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  18
+'albumartist'  - Album artist not found
+flac track:  Harmonics Of Life
+flac track #:  18
 genre:  Electronic
 duration:  114.57333333333334
-error -  'albumartist'
 
-flac title:  Dha Teen Ta
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  16
+'albumartist'  - Album artist not found
+flac track:  Dha Teen Ta
+flac track #:  16
 genre:  Electronic
 duration:  150.29333333333332
-error -  'albumartist'
 
-flac title:  Trust
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  14
+'albumartist'  - Album artist not found
+flac track:  Trust
+flac track #:  14
 genre:  Electronic
 duration:  179.53333333333333
-error -  'albumartist'
 
-flac title:  All The People
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  9
+'albumartist'  - Album artist not found
+flac track:  All The People
+flac track #:  9
 genre:  Electronic
 duration:  214.44
-error -  'albumartist'
 
-flac title:  Poor Shakes
 flac artist:  Money Mark
 flac album:  Push The Button
-track number:  5
+'albumartist'  - Album artist not found
+flac track:  Poor Shakes
+flac track #:  5
 genre:  Electronic
 duration:  31.69333333333333
-error -  'albumartist'
 
 mp3 - /home/mark/Music/Elbow/Elbow - Fugitive Motel.mp3
 Artist: Elbow
@@ -1632,109 +1632,109 @@ Track: El Mundo Pequeno
 Genre: Alternative
 Release Year: 2001
 
-flac title:  Ricky's Theme
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  Ricky's Theme
+flac track #:  11
 genre:  Hip-Hop
 duration:  224.77333333333334
-error -  'albumartist'
 
-flac title:  Pow
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  Pow
+flac track #:  04
 genre:  Hip-Hop
 duration:  135.84
-error -  'albumartist'
 
-flac title:  Sabrosa
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Sabrosa
+flac track #:  02
 genre:  Hip-Hop
 duration:  212.90666666666667
-error -  'albumartist'
 
-flac title:  Transitions
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  Transitions
+flac track #:  12
 genre:  Hip-Hop
 duration:  155.22666666666666
-error -  'albumartist'
 
-flac title:  Bobo On The Corner
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  Bobo On The Corner
+flac track #:  08
 genre:  Hip-Hop
 duration:  78.04
-error -  'albumartist'
 
-flac title:  Lighten Up
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Lighten Up
+flac track #:  10
 genre:  Hip-Hop
 duration:  165.6
-error -  'albumartist'
 
-flac title:  Shambala
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  Shambala
+flac track #:  09
 genre:  Hip-Hop
 duration:  195.62666666666667
-error -  'albumartist'
 
-flac title:  Drinkin' Wine
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  13
+'albumartist'  - Album artist not found
+flac track:  Drinkin' Wine
+flac track #:  13
 genre:  Hip-Hop
 duration:  281.1066666666667
-error -  'albumartist'
 
-flac title:  In 3's
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  In 3's
+flac track #:  06
 genre:  Hip-Hop
 duration:  139.06666666666666
-error -  'albumartist'
 
-flac title:  Son Of Neckbone
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Son Of Neckbone
+flac track #:  05
 genre:  Hip-Hop
 duration:  203.8
-error -  'albumartist'
 
-flac title:  Groove Holmes
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Groove Holmes
+flac track #:  01
 genre:  Hip-Hop
 duration:  151.02666666666667
-error -  'albumartist'
 
-flac title:  Namaste
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Namaste
+flac track #:  03
 genre:  Hip-Hop
 duration:  238.69333333333333
-error -  'albumartist'
 
-flac title:  Eugene's Lament
 flac artist:  Beastie Boys
 flac album:  The In Sound From Way Out!
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Eugene's Lament
+flac track #:  07
 genre:  Hip-Hop
 duration:  131.49333333333334
-error -  'albumartist'
 
 mp3 - /home/mark/Music/Supergrass/03 - Supergrass/05 - Shotover Hill.mp3
 Artist: Supergrass
@@ -4306,93 +4306,93 @@ Track: Cards To Your Heart
 Genre: Electronica
 Release Year: 2010
 
-flac title:  Kick to Kill
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  2
+flac album artist:  Pop Will Eat Itself
+flac track:  Kick to Kill
+flac track #:  2
 genre:  Rock
 duration:  204.82666666666665
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Babylon
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  11
+flac album artist:  Pop Will Eat Itself
+flac track:  Babylon
+flac track #:  11
 genre:  Rock
 duration:  304.1333333333333
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Underbelly
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  4
+flac album artist:  Pop Will Eat Itself
+flac track:  Underbelly
+flac track #:  4
 genre:  Rock
 duration:  238.33333333333334
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Menofearthereaper
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  8
+flac album artist:  Pop Will Eat Itself
+flac track:  Menofearthereaper
+flac track #:  8
 genre:  Rock
 duration:  387.46666666666664
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Everything's Cool
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  9
+flac album artist:  Pop Will Eat Itself
+flac track:  Everything's Cool
+flac track #:  9
 genre:  Rock
 duration:  257.4266666666667
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Cape Connection
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  7
+flac album artist:  Pop Will Eat Itself
+flac track:  Cape Connection
+flac track #:  7
 genre:  Rock
 duration:  299.2
-flac album artist:  Pop Will Eat Itself
 
-flac title:  R.S.V.P.
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  10
+flac album artist:  Pop Will Eat Itself
+flac track:  R.S.V.P.
+flac track #:  10
 genre:  Rock
 duration:  212.77333333333334
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Fatman
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  5
+flac album artist:  Pop Will Eat Itself
+flac track:  Fatman
+flac track #:  5
 genre:  Rock
 duration:  197.93333333333334
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Home
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  6
+flac album artist:  Pop Will Eat Itself
+flac track:  Home
+flac track #:  6
 genre:  Rock
 duration:  216.04
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Familus Horribilus
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  3
+flac album artist:  Pop Will Eat Itself
+flac track:  Familus Horribilus
+flac track #:  3
 genre:  Rock
 duration:  243.93333333333334
-flac album artist:  Pop Will Eat Itself
 
-flac title:  Ich Bin Ein Auslander
 flac artist:  Pop Will Eat Itself
 flac album:  Dos Dedos Mis Amigos
-track number:  1
+flac album artist:  Pop Will Eat Itself
+flac track:  Ich Bin Ein Auslander
+flac track #:  1
 genre:  Rock
 duration:  239.44
-flac album artist:  Pop Will Eat Itself
 
 mp3 - /home/mark/Music/Massive Attack/Mezzanine/11-massive_attack-(exchange)-eos.mp3
 Artist: Massive Attack
@@ -5894,101 +5894,101 @@ Length: 240466
 Genre: Rock
 Release Year: 2000
 
-flac title:  England
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  England
+flac track #:  07
 genre:  Rock
 duration:  191.08
-error -  'albumartist'
 
-flac title:  The Colour Of The Earth
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  The Colour Of The Earth
+flac track #:  12
 genre:  Rock
 duration:  153.61333333333334
-error -  'albumartist'
 
-flac title:  The Glorious Land
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  The Glorious Land
+flac track #:  03
 genre:  Rock
 duration:  214.69333333333333
-error -  'albumartist'
 
-flac title:  The Words That Maketh Murder
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  The Words That Maketh Murder
+flac track #:  04
 genre:  Rock
 duration:  225.84
-error -  'albumartist'
 
-flac title:  Bitter Branches
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  Bitter Branches
+flac track #:  09
 genre:  Rock
 duration:  149.66666666666666
-error -  'albumartist'
 
-flac title:  The Last Living Rose
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  The Last Living Rose
+flac track #:  02
 genre:  Rock
 duration:  141.28
-error -  'albumartist'
 
-flac title:  Written On The Forehead
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  Written On The Forehead
+flac track #:  11
 genre:  Rock
 duration:  219.92
-error -  'albumartist'
 
-flac title:  In The Dark Places
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  In The Dark Places
+flac track #:  08
 genre:  Rock
 duration:  179.54666666666665
-error -  'albumartist'
 
-flac title:  All And Everyone
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  All And Everyone
+flac track #:  05
 genre:  Rock
 duration:  339.88
-error -  'albumartist'
 
-flac title:  Hanging In The Wire
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Hanging In The Wire
+flac track #:  10
 genre:  Rock
 duration:  162.36
-error -  'albumartist'
 
-flac title:  Let England Shake
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Let England Shake
+flac track #:  01
 genre:  Rock
 duration:  189.28
-error -  'albumartist'
 
-flac title:  On Battleship Hill
 flac artist:  PJ Harvey
 flac album:  Let England Shake
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  On Battleship Hill
+flac track #:  06
 genre:  Rock
 duration:  247.66666666666666
-error -  'albumartist'
 
 mp3 - /home/mark/Music/Crime and Punishment/Bullet - Frank Black.mp3
 Artist: Frank Black
@@ -8420,339 +8420,365 @@ Length: 236706
 Genre: Alternative Rock
 Release Year: 2006
 
-flac title:  Dishes
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  102
+'albumartist'  - Album artist not found
+flac track:  Dishes
+flac track #:  102
 genre:  Alternative
 duration:  210.02666666666667
-error -  'albumartist'
 
-flac title:  Party Hard
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  103
+'albumartist'  - Album artist not found
+flac track:  Party Hard
+flac track #:  103
 genre:  Alternative
 duration:  240.44
-error -  'albumartist'
 
-flac title:  A Little Soul
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  204
+'albumartist'  - Album artist not found
+flac track:  A Little Soul
+flac track #:  204
 genre:  Alternative
 duration:  275.5733333333333
-error -  'albumartist'
 
-flac title:  Help The Aged
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  104
+'albumartist'  - Album artist not found
+flac track:  Help The Aged
+flac track #:  104
 genre:  Alternative
 duration:  268.8933333333333
-error -  'albumartist'
 
-flac title:  The Fear
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  101
+'albumartist'  - Album artist not found
+flac track:  The Fear
+flac track #:  101
 genre:  Alternative
 duration:  335.0
-error -  'albumartist'
 
-flac title:  This Is Hardcore
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  105
+'albumartist'  - Album artist not found
+flac track:  This Is Hardcore
+flac track #:  105
 genre:  Alternative
 duration:  385.1066666666667
-error -  'albumartist'
 
-flac title:  I'm A Man
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  108
+'albumartist'  - Album artist not found
+flac track:  I'm A Man
+flac track #:  108
 genre:  Alternative
 duration:  299.97333333333336
-error -  'albumartist'
 
-flac title:  Seductive Barry
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  109
+'albumartist'  - Album artist not found
+flac track:  Seductive Barry
+flac track #:  109
 genre:  Alternative
 duration:  511.46666666666664
-error -  'albumartist'
 
-flac title:  TV Movie
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  203
+'albumartist'  - Album artist not found
+flac track:  TV Movie
+flac track #:  203
 genre:  Alternative
 duration:  234.73333333333332
-error -  'albumartist'
 
-flac title:  Help The Aged
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  206
+'albumartist'  - Album artist not found
+flac track:  Help The Aged
+flac track #:  206
 genre:  Alternative
 duration:  333.29333333333335
-error -  'albumartist'
 
-flac title:  Live Bed Show
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  202
+'albumartist'  - Album artist not found
+flac track:  Live Bed Show
+flac track #:  202
 genre:  Alternative
 duration:  272.93333333333334
-error -  'albumartist'
 
-flac title:  The Day After The Revolution
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  112
+'albumartist'  - Album artist not found
+flac track:  The Day After The Revolution
+flac track #:  112
 genre:  Alternative
 duration:  897.9333333333333
-error -  'albumartist'
 
-flac title:  Party Hard
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  205
+'albumartist'  - Album artist not found
+flac track:  Party Hard
+flac track #:  205
 genre:  Alternative
 duration:  268.6666666666667
-error -  'albumartist'
 
-flac title:  Sylvia
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  110
+'albumartist'  - Album artist not found
+flac track:  Sylvia
+flac track #:  110
 genre:  Alternative
 duration:  344.4
-error -  'albumartist'
 
-flac title:  Glory Days
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  111
+'albumartist'  - Album artist not found
+flac track:  Glory Days
+flac track #:  111
 genre:  Alternative
 duration:  295.4
-error -  'albumartist'
 
-flac title:  TV Movie
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  106
+'albumartist'  - Album artist not found
+flac track:  TV Movie
+flac track #:  106
 genre:  Alternative
 duration:  205.29333333333332
-error -  'albumartist'
 
-flac title:  A Little Soul
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury)
-track number:  107
+'albumartist'  - Album artist not found
+flac track:  A Little Soul
+flac track #:  107
 genre:  Alternative
 duration:  199.73333333333332
-error -  'albumartist'
 
-flac title:  The Fear
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  201
+'albumartist'  - Album artist not found
+flac track:  The Fear
+flac track #:  201
 genre:  Alternative
 duration:  468.62666666666667
-error -  'albumartist'
 
-flac title:  Seductive Barry
 flac artist:  Pulp
 flac album:  This Is Hardcore (Limited UK Issue With This Is Glastonbury) - CD2 - This Is Glastonbury
-track number:  207
+'albumartist'  - Album artist not found
+flac track:  Seductive Barry
+flac track #:  207
 genre:  Alternative
 duration:  596.4666666666667
-error -  'albumartist'
 
-flac title:  Bar Italia
 flac artist:  Pulp
 flac album:  Different Class
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  Bar Italia
+flac track #:  12
 genre:  Pop
 duration:  223.66666666666666
-error -  'albumartist'
 
-flac title:  Common People
 flac artist:  Pulp
 flac album:  Different Class
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Common People
+flac track #:  03
 genre:  Pop
 duration:  351.64
-error -  'albumartist'
 
-flac title:  I Spy
 flac artist:  Pulp
 flac album:  Different Class
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  I Spy
+flac track #:  04
 genre:  Pop
 duration:  355.2266666666667
-error -  'albumartist'
 
-flac title:  F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E
 flac artist:  Pulp
 flac album:  Different Class
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E
+flac track #:  09
 genre:  Pop
 duration:  361.3333333333333
-error -  'albumartist'
 
-flac title:  Pencil Skirt
 flac artist:  Pulp
 flac album:  Different Class
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Pencil Skirt
+flac track #:  02
 genre:  Pop
 duration:  191.36
-error -  'albumartist'
 
-flac title:  Something Changed
 flac artist:  Pulp
 flac album:  Different Class
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Something Changed
+flac track #:  07
 genre:  Pop
 duration:  198.64
-error -  'albumartist'
 
-flac title:  Sorted For E's & Wizz
 flac artist:  Pulp
 flac album:  Different Class
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  Sorted For E's & Wizz
+flac track #:  08
 genre:  Pop
 duration:  227.82666666666665
-error -  'albumartist'
 
-flac title:  Underwear
 flac artist:  Pulp
 flac album:  Different Class
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Underwear
+flac track #:  10
 genre:  Pop
 duration:  246.30666666666667
-error -  'albumartist'
 
-flac title:  Monday Morning
 flac artist:  Pulp
 flac album:  Different Class
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  Monday Morning
+flac track #:  11
 genre:  Pop
 duration:  258.4266666666667
-error -  'albumartist'
 
-flac title:  Mis-shapes
 flac artist:  Pulp
 flac album:  Different Class
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Mis-shapes
+flac track #:  01
 genre:  Pop
 duration:  226.50666666666666
-error -  'albumartist'
 
-flac title:  Disco 2000
 flac artist:  Pulp
 flac album:  Different Class
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Disco 2000
+flac track #:  05
 genre:  Pop
 duration:  273.5733333333333
-error -  'albumartist'
 
-flac title:  Live Bed Show
 flac artist:  Pulp
 flac album:  Different Class
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Live Bed Show
+flac track #:  06
 genre:  Pop
 duration:  209.82666666666665
-error -  'albumartist'
 
-flac title:  Self Esteem
 flac artist:  The Offspring
 flac album:  Smash
-track number:  8
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Self Esteem
+flac track #:  8
+'genre'  - Genre not found
+duration:  257.82666666666665
 
-flac title:  It'll Be A Long Time
 flac artist:  The Offspring
 flac album:  Smash
-track number:  9
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  It'll Be A Long Time
+flac track #:  9
+'genre'  - Genre not found
+duration:  163.26666666666668
 
-flac title:  Smash
 flac artist:  The Offspring
 flac album:  Smash
-track number:  14
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Smash
+flac track #:  14
+'genre'  - Genre not found
+duration:  640.2
 
-flac title:  Killboy Powerhead
 flac artist:  The Offspring
 flac album:  Smash
-track number:  10
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Killboy Powerhead
+flac track #:  10
+'genre'  - Genre not found
+duration:  122.70666666666666
 
-flac title:  Something To Believe In
 flac artist:  The Offspring
 flac album:  Smash
-track number:  6
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Something To Believe In
+flac track #:  6
+'genre'  - Genre not found
+duration:  197.6
 
-flac title:  So Alone
 flac artist:  The Offspring
 flac album:  Smash
-track number:  12
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  So Alone
+flac track #:  12
+'genre'  - Genre not found
+duration:  77.26666666666667
 
-flac title:  Nitro [ Youth Energy ]
 flac artist:  The Offspring
 flac album:  Smash
-track number:  2
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Nitro [ Youth Energy ]
+flac track #:  2
+'genre'  - Genre not found
+duration:  146.96
 
-flac title:  Time To Relax
 flac artist:  The Offspring
 flac album:  Smash
-track number:  1
+'albumartist'  - Album artist not found
+flac track:  Time To Relax
+flac track #:  1
 genre:  Hard Rock
 duration:  25.466666666666665
-error -  'albumartist'
 
-flac title:  Bad Habit
 flac artist:  The Offspring
 flac album:  Smash
-track number:  3
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Bad Habit
+flac track #:  3
+'genre'  - Genre not found
+duration:  223.90666666666667
 
-flac title:  Gotta Get Away
 flac artist:  The Offspring
 flac album:  Smash
-track number:  4
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Gotta Get Away
+flac track #:  4
+'genre'  - Genre not found
+duration:  232.16
 
-flac title:  What Happened To You
 flac artist:  The Offspring
 flac album:  Smash
-track number:  11
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  What Happened To You
+flac track #:  11
+'genre'  - Genre not found
+duration:  132.13333333333333
 
-flac title:  Come Out And Play
 flac artist:  The Offspring
 flac album:  Smash
-track number:  7
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Come Out And Play
+flac track #:  7
+'genre'  - Genre not found
+duration:  197.8
 
-flac title:  Genocide
 flac artist:  The Offspring
 flac album:  Smash
-track number:  5
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Genocide
+flac track #:  5
+'genre'  - Genre not found
+duration:  213.10666666666665
 
-flac title:  Not The One
 flac artist:  The Offspring
 flac album:  Smash
-track number:  13
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Not The One
+flac track #:  13
+'genre'  - Genre not found
+duration:  174.36
 
 mp3 - /home/mark/Music/Madder Rose/Bring It Down/08 - Madder Rose - Lights Go Down.mp3
 Artist: Madder Rose
@@ -9034,109 +9060,109 @@ Track: What Holly Sees
 Genre: Rock
 'TDRC'  - Year not found.
 
-flac title:  Super Secret!
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  13
+flac album artist:  Madder Rose
+flac track:  Super Secret!
+flac track #:  13
 genre:  Rock
 duration:  89.24
-flac album artist:  Madder Rose
 
-flac title:  Best Friend
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  08
+flac album artist:  Madder Rose
+flac track:  Best Friend
+flac track #:  08
 genre:  Rock
 duration:  251.89333333333335
-flac album artist:  Madder Rose
 
-flac title:  My Star
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  01
+flac album artist:  Madder Rose
+flac track:  My Star
+flac track #:  01
 genre:  Rock
 duration:  238.50666666666666
-flac album artist:  Madder Rose
 
-flac title:  Delight's Pool
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  05
+flac album artist:  Madder Rose
+flac track:  Delight's Pool
+flac track #:  05
 genre:  Rock
 duration:  265.26666666666665
-flac album artist:  Madder Rose
 
-flac title:  (She's A) Satellite
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  06
+flac album artist:  Madder Rose
+flac track:  (She's A) Satellite
+flac track #:  06
 genre:  Rock
 duration:  233.53333333333333
-flac album artist:  Madder Rose
 
-flac title:  Don Greene
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  11
+flac album artist:  Madder Rose
+flac track:  Don Greene
+flac track #:  11
 genre:  Rock
 duration:  292.53333333333336
-flac album artist:  Madder Rose
 
-flac title:  Peter and Victor
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  07
+flac album artist:  Madder Rose
+flac track:  Peter and Victor
+flac track #:  07
 genre:  Rock
 duration:  190.97333333333333
-flac album artist:  Madder Rose
 
-flac title:  Scenes from "Starbright"
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  09
+flac album artist:  Madder Rose
+flac track:  Scenes from "Starbright"
+flac track #:  09
 genre:  Rock
 duration:  216.33333333333334
-flac album artist:  Madder Rose
 
-flac title:  Midnight on the Dot
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  10
+flac album artist:  Madder Rose
+flac track:  Midnight on the Dot
+flac track #:  10
 genre:  Rock
 duration:  241.93333333333334
-flac album artist:  Madder Rose
 
-flac title:  Real Feel
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  02
+flac album artist:  Madder Rose
+flac track:  Real Feel
+flac track #:  02
 genre:  Rock
 duration:  221.02666666666667
-flac album artist:  Madder Rose
 
-flac title:  Not Perfect
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  12
+flac album artist:  Madder Rose
+flac track:  Not Perfect
+flac track #:  12
 genre:  Rock
 duration:  269.93333333333334
-flac album artist:  Madder Rose
 
-flac title:  Hung Up in You
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  04
+flac album artist:  Madder Rose
+flac track:  Hung Up in You
+flac track #:  04
 genre:  Rock
 duration:  214.69333333333333
-flac album artist:  Madder Rose
 
-flac title:  Float to the Top
 flac artist:  Madder Rose
 flac album:  Tragic Magic
-track number:  03
+flac album artist:  Madder Rose
+flac track:  Float to the Top
+flac track #:  03
 genre:  Rock
 duration:  297.5733333333333
-flac album artist:  Madder Rose
 
 mp3 - /home/mark/Music/Them Crooked Vultures/Them Crooked Vultures/02 Mind Eraser, No Chaser.mp3
 Artist: Them Crooked Vultures
@@ -20588,325 +20614,325 @@ Track: I Just Wasn't Made For These Times
 Genre: Pop
 Release Year: 2000
 
-flac title:  Psycodelic Sounds: Brian Falls Into a Piano
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  27
+flac album artist:  The Beach Boys
+flac track:  Psycodelic Sounds: Brian Falls Into a Piano
+flac track #:  27
 genre:  Rock
 duration:  90.49951247165532
-flac album artist:  The Beach Boys
 
-flac title:  The Elements: Fire (Mrs. O'Leary's Cow)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  17
+flac album artist:  The Beach Boys
+flac track:  The Elements: Fire (Mrs. O'Leary's Cow)
+flac track #:  17
 genre:  Rock
 duration:  154.62362811791382
-flac album artist:  The Beach Boys
 
-flac title:  He Gives Speeches
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  24
+flac album artist:  The Beach Boys
+flac track:  He Gives Speeches
+flac track #:  24
 genre:  Rock
 duration:  72.57496598639456
-flac album artist:  The Beach Boys
 
-flac title:  Barnyard
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  06
+flac album artist:  The Beach Boys
+flac track:  Barnyard
+flac track #:  06
 genre:  Rock
 duration:  47.83128117913832
-flac album artist:  The Beach Boys
 
-flac title:  Cabin Essence
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  08
+flac album artist:  The Beach Boys
+flac track:  Cabin Essence
+flac track #:  08
 genre:  Rock
 duration:  210.07772108843537
-flac album artist:  The Beach Boys
 
-flac title:  Do You Like Worms (Roll Plymouth Rock)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  04
+flac album artist:  The Beach Boys
+flac track:  Do You Like Worms (Roll Plymouth Rock)
+flac track #:  04
 genre:  Rock
 duration:  214.63191609977324
-flac album artist:  The Beach Boys
 
-flac title:  Wonderful
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  09
+flac album artist:  The Beach Boys
+flac track:  Wonderful
+flac track #:  09
 genre:  Rock
 duration:  123.79143990929705
-flac album artist:  The Beach Boys
 
-flac title:  My Only Sunshine (Parts 1 & 2)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  06
+flac album artist:  The Beach Boys
+flac track:  My Only Sunshine (Parts 1 & 2)
+flac track #:  06
 genre:  Rock
 duration:  410.1886167800454
-flac album artist:  The Beach Boys
 
-flac title:  Vegetables: Fade
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  10
+flac album artist:  The Beach Boys
+flac track:  Vegetables: Fade
+flac track #:  10
 genre:  Rock
 duration:  325.29069160997733
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains: Prelude to Fade
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  05
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains: Prelude to Fade
+flac track #:  05
 genre:  Rock
 duration:  221.40990929705217
-flac album artist:  The Beach Boys
 
-flac title:  Surf's Up: Piano Demo (Master Take)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  09
+flac album artist:  The Beach Boys
+flac track:  Surf's Up: Piano Demo (Master Take)
+flac track #:  09
 genre:  Rock
 duration:  234.74615646258502
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains: Part 1
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  02
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains: Part 1
+flac track #:  02
 genre:  Rock
 duration:  188.52332199546484
-flac album artist:  The Beach Boys
 
-flac title:  Surf's Up
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  12
+flac album artist:  The Beach Boys
+flac track:  Surf's Up
+flac track #:  12
 genre:  Rock
 duration:  252.28321995464853
-flac album artist:  The Beach Boys
 
-flac title:  Child is Father of the Man
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  11
+flac album artist:  The Beach Boys
+flac track:  Child is Father of the Man
+flac track #:  11
 genre:  Rock
 duration:  129.79471655328797
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains: Children Were Raised
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  04
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains: Children Were Raised
+flac track #:  04
 genre:  Rock
 duration:  127.51713151927437
-flac album artist:  The Beach Boys
 
-flac title:  My Only Sunshine (The Old Master Painter/You Are My Sunshine)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  07
+flac album artist:  The Beach Boys
+flac track:  My Only Sunshine (The Old Master Painter/You Are My Sunshine)
+flac track #:  07
 genre:  Rock
 duration:  115.19447845804989
-flac album artist:  The Beach Boys
 
-flac title:  Good Vibrations
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  19
+flac album artist:  The Beach Boys
+flac track:  Good Vibrations
+flac track #:  19
 genre:  Rock
 duration:  255.5710090702948
-flac album artist:  The Beach Boys
 
-flac title:  Holidays
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  15
+flac album artist:  The Beach Boys
+flac track:  Holidays
+flac track #:  15
 genre:  Rock
 duration:  152.6509523809524
-flac album artist:  The Beach Boys
 
-flac title:  Gee
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  02
+flac album artist:  The Beach Boys
+flac track:  Gee
+flac track #:  02
 genre:  Rock
 duration:  51.09471655328798
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  03
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains
+flac track #:  03
 genre:  Rock
 duration:  292.1385600907029
-flac album artist:  The Beach Boys
 
-flac title:  Surf's Up (1st Movement)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  08
+flac album artist:  The Beach Boys
+flac track:  Surf's Up (1st Movement)
+flac track #:  08
 genre:  Rock
 duration:  295.75233560090703
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains: Part 2
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  03
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains: Part 2
+flac track #:  03
 genre:  Rock
 duration:  259.4040022675737
-flac album artist:  The Beach Boys
 
-flac title:  Cool, Cool Water (Version 2)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  12
+flac album artist:  The Beach Boys
+flac track:  Cool, Cool Water (Version 2)
+flac track #:  12
 genre:  Rock
 duration:  215.67816326530613
-flac album artist:  The Beach Boys
 
-flac title:  Surf's Up 1967 (Solo Version)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  26
+flac album artist:  The Beach Boys
+flac track:  Surf's Up 1967 (Solo Version)
+flac track #:  26
 genre:  Rock
 duration:  227.95354875283448
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains Sections (Stereo Mix)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  22
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains Sections (Stereo Mix)
+flac track #:  22
 genre:  Rock
 duration:  436.326485260771
-flac album artist:  The Beach Boys
 
-flac title:  Smile Backing Vocals Montage
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  25
+flac album artist:  The Beach Boys
+flac track:  Smile Backing Vocals Montage
+flac track #:  25
 genre:  Rock
 duration:  509.0962811791383
-flac album artist:  The Beach Boys
 
-flac title:  I Wanna Be Around / Workshop
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  13
+flac album artist:  The Beach Boys
+flac track:  I Wanna Be Around / Workshop
+flac track #:  13
 genre:  Rock
 duration:  83.1811224489796
-flac album artist:  The Beach Boys
 
-flac title:  Vega-Tables
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  14
+flac album artist:  The Beach Boys
+flac track:  Vega-Tables
+flac track #:  14
 genre:  Rock
 duration:  228.586768707483
-flac album artist:  The Beach Boys
 
-flac title:  Our Prayer (Dialog)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  01
+flac album artist:  The Beach Boys
+flac track:  Our Prayer (Dialog)
+flac track #:  01
 genre:  Rock
 duration:  182.01893424036282
-flac album artist:  The Beach Boys
 
-flac title:  I'm In Great Shape
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  05
+flac album artist:  The Beach Boys
+flac track:  I'm In Great Shape
+flac track #:  05
 genre:  Rock
 duration:  27.836632653061226
-flac album artist:  The Beach Boys
 
-flac title:  You're Welcome
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  20
+flac album artist:  The Beach Boys
+flac track:  You're Welcome
+flac track #:  20
 genre:  Rock
 duration:  67.69197278911565
-flac album artist:  The Beach Boys
 
-flac title:  Vega-Tables (Demo)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  23
+flac album artist:  The Beach Boys
+flac track:  Vega-Tables (Demo)
+flac track #:  23
 genre:  Rock
 duration:  108.81373015873015
-flac album artist:  The Beach Boys
 
-flac title:  Good Vibrations: Session Highlights
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  13
+flac album artist:  The Beach Boys
+flac track:  Good Vibrations: Session Highlights
+flac track #:  13
 genre:  Rock
 duration:  499.4846485260771
-flac album artist:  The Beach Boys
 
-flac title:  Cabin Essence (Session Highlights and Stereo Backing Track)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  07
+flac album artist:  The Beach Boys
+flac track:  Cabin Essence (Session Highlights and Stereo Backing Track)
+flac track #:  07
 genre:  Rock
 duration:  317.3740702947846
-flac album artist:  The Beach Boys
 
-flac title:  Love to Say Dada
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  18
+flac album artist:  The Beach Boys
+flac track:  Love to Say Dada
+flac track #:  18
 genre:  Rock
 duration:  152.1273469387755
-flac album artist:  The Beach Boys
 
-flac title:  Look (Song for Children)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  10
+flac album artist:  The Beach Boys
+flac track:  Look (Song for Children)
+flac track #:  10
 genre:  Rock
 duration:  150.77569160997732
-flac album artist:  The Beach Boys
 
-flac title:  The Elements: Fire
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  11
+flac album artist:  The Beach Boys
+flac track:  The Elements: Fire
+flac track #:  11
 genre:  Rock
 duration:  501.49927437641725
-flac album artist:  The Beach Boys
 
-flac title:  Heroes and Villains (Stereo Mix)
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  21
+flac album artist:  The Beach Boys
+flac track:  Heroes and Villains (Stereo Mix)
+flac track #:  21
 genre:  Rock
 duration:  292.8570068027211
-flac album artist:  The Beach Boys
 
-flac title:  Our Prayer
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  01
+flac album artist:  The Beach Boys
+flac track:  Our Prayer
+flac track #:  01
 genre:  Rock
 duration:  64.80603174603175
-flac album artist:  The Beach Boys
 
-flac title:  Wind Chimes
 flac artist:  The Beach Boys
 flac album:  The Smile Sessions
-track number:  16
+flac album artist:  The Beach Boys
+flac track:  Wind Chimes
+flac track #:  16
 genre:  Rock
 duration:  185.8454648526077
-flac album artist:  The Beach Boys
 
 mp3 - /home/mark/Music/The Beach Boys/Smiley Smile - Wild Honey/28 - The Beach Boys - Can't wait too long.mp3
 Artist: The Beach Boys
@@ -21858,325 +21884,325 @@ Track: Sundance
 Genre: Ambient
 Release Year: 1994
 
-flac title:  La Telecabine
 flac artist:  Caia
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  4
+'albumartist'  - Album artist not found
+flac track:  La Telecabine
+flac track #:  4
 genre:  New Age
 duration:  423.92
-error -  'albumartist'
 
-flac title:  The Inverted Man Falling
 flac artist:  The Detroit Escalator Co.
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  36
+'albumartist'  - Album artist not found
+flac track:  The Inverted Man Falling
+flac track #:  36
 genre:  New Age
 duration:  225.2
-error -  'albumartist'
 
-flac title:  The Light in Your Eyes
 flac artist:  Steven Halpern
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  39
+'albumartist'  - Album artist not found
+flac track:  The Light in Your Eyes
+flac track #:  39
 genre:  New Age
 duration:  347.0933333333333
-error -  'albumartist'
 
-flac title:  Sunrise
 flac artist:  Young American Primitive
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  28
+'albumartist'  - Album artist not found
+flac track:  Sunrise
+flac track #:  28
 genre:  New Age
 duration:  346.8933333333333
-error -  'albumartist'
 
-flac title:  Strung Out
 flac artist:  Jakatta
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  Strung Out
+flac track #:  11
 genre:  New Age
 duration:  614.1066666666667
-error -  'albumartist'
 
-flac title:  Guitarra G (Afterlife Remix)
 flac artist:  G Club Presents Banda Sonora
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  19
+'albumartist'  - Album artist not found
+flac track:  Guitarra G (Afterlife Remix)
+flac track #:  19
 genre:  New Age
 duration:  350.82666666666665
-error -  'albumartist'
 
-flac title:  Mountain Goat
 flac artist:  Amorphous Androgynous
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  27
+'albumartist'  - Album artist not found
+flac track:  Mountain Goat
+flac track #:  27
 genre:  New Age
 duration:  283.0133333333333
-error -  'albumartist'
 
-flac title:  Cavatina ('The Deer Hunter')
 flac artist:  John Williams
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  40
+'albumartist'  - Album artist not found
+flac track:  Cavatina ('The Deer Hunter')
+flac track #:  40
 genre:  New Age
 duration:  211.42666666666668
-error -  'albumartist'
 
-flac title:  Sugar Steps
 flac artist:  Kamasutra
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  16
+'albumartist'  - Album artist not found
+flac track:  Sugar Steps
+flac track #:  16
 genre:  New Age
 duration:  388.64
-error -  'albumartist'
 
-flac title:  Sandcastles (Afterlife Remix)
 flac artist:  Syndenham & Ferrer
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  18
+'albumartist'  - Album artist not found
+flac track:  Sandcastles (Afterlife Remix)
+flac track #:  18
 genre:  New Age
 duration:  319.50666666666666
-error -  'albumartist'
 
-flac title:  When the Rain Falls
 flac artist:  Mike Monday
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  21
+'albumartist'  - Album artist not found
+flac track:  When the Rain Falls
+flac track #:  21
 genre:  New Age
 duration:  204.56
-error -  'albumartist'
 
-flac title:  Untitled 3
 flac artist:  Aphex Twin
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  31
+'albumartist'  - Album artist not found
+flac track:  Untitled 3
+flac track #:  31
 genre:  New Age
 duration:  452.48
-error -  'albumartist'
 
-flac title:  When History Was Made
 flac artist:  Bliss
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  25
+'albumartist'  - Album artist not found
+flac track:  When History Was Made
+flac track #:  25
 genre:  New Age
 duration:  177.64
-error -  'albumartist'
 
-flac title:  Coriolis
 flac artist:  Penguin Cafe
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  26
+'albumartist'  - Album artist not found
+flac track:  Coriolis
+flac track #:  26
 genre:  New Age
 duration:  121.64
-error -  'albumartist'
 
-flac title:  Umbrella (Beatless Mix)
 flac artist:  Chymera
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  20
+'albumartist'  - Album artist not found
+flac track:  Umbrella (Beatless Mix)
+flac track #:  20
 genre:  New Age
 duration:  213.74666666666667
-error -  'albumartist'
 
-flac title:  Nine
 flac artist:  Autechre
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  30
+'albumartist'  - Album artist not found
+flac track:  Nine
+flac track #:  30
 genre:  New Age
 duration:  220.17333333333335
-error -  'albumartist'
 
-flac title:  A Grand Love Theme
 flac artist:  Kid Loco
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  2
+'albumartist'  - Album artist not found
+flac track:  A Grand Love Theme
+flac track #:  2
 genre:  New Age
 duration:  239.88
-error -  'albumartist'
 
-flac title:  Candles
 flac artist:  Jon Hopkins
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  Candles
+flac track #:  12
 genre:  New Age
 duration:  148.54666666666665
-error -  'albumartist'
 
-flac title:  I Love My Man
 flac artist:  Bent
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  22
+'albumartist'  - Album artist not found
+flac track:  I Love My Man
+flac track #:  22
 genre:  New Age
 duration:  345.9866666666667
-error -  'albumartist'
 
-flac title:  Moments in Love (Beaten)
 flac artist:  Art of Noise
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  29
+'albumartist'  - Album artist not found
+flac track:  Moments in Love (Beaten)
+flac track #:  29
 genre:  New Age
 duration:  410.05333333333334
-error -  'albumartist'
 
-flac title:  Struggle for Pleasure
 flac artist:  Wim Mertens
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  37
+'albumartist'  - Album artist not found
+flac track:  Struggle for Pleasure
+flac track #:  37
 genre:  New Age
 duration:  231.28
-error -  'albumartist'
 
-flac title:  Sunset
 flac artist:  Coco Steel & Lovebomb
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  23
+'albumartist'  - Album artist not found
+flac track:  Sunset
+flac track #:  23
 genre:  New Age
 duration:  384.3066666666667
-error -  'albumartist'
 
-flac title:  Astral Projection
 flac artist:  Tom Middleton
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  5
+'albumartist'  - Album artist not found
+flac track:  Astral Projection
+flac track #:  5
 genre:  New Age
 duration:  278.53333333333336
-error -  'albumartist'
 
-flac title:  In The Cold I'm Standing
 flac artist:  M83
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  13
+'albumartist'  - Album artist not found
+flac track:  In The Cold I'm Standing
+flac track #:  13
 genre:  New Age
 duration:  244.12
-error -  'albumartist'
 
-flac title:  My Beautiful Blue Sky
 flac artist:  Moby
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  33
+'albumartist'  - Album artist not found
+flac track:  My Beautiful Blue Sky
+flac track #:  33
 genre:  New Age
 duration:  319.0
-error -  'albumartist'
 
-flac title:  Vagalume
 flac artist:  Ian O’Brien
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  35
+'albumartist'  - Album artist not found
+flac track:  Vagalume
+flac track #:  35
 genre:  New Age
 duration:  147.66666666666666
-error -  'albumartist'
 
-flac title:  Already There
 flac artist:  Chicane
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  24
+'albumartist'  - Album artist not found
+flac track:  Already There
+flac track #:  24
 genre:  New Age
 duration:  175.93333333333334
-error -  'albumartist'
 
-flac title:  Gutaris Breeze (6000km To Amsterdam)
 flac artist:  John Beltran
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  32
+'albumartist'  - Album artist not found
+flac track:  Gutaris Breeze (6000km To Amsterdam)
+flac track #:  32
 genre:  New Age
 duration:  461.41333333333336
-error -  'albumartist'
 
-flac title:  Put 'em High (Claes Rosen Lounge Mix)
 flac artist:  Stonebridge feat. Therese
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  17
+'albumartist'  - Album artist not found
+flac track:  Put 'em High (Claes Rosen Lounge Mix)
+flac track #:  17
 genre:  New Age
 duration:  339.41333333333336
-error -  'albumartist'
 
-flac title:  The 5th Exotic
 flac artist:  Quantic
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  3
+'albumartist'  - Album artist not found
+flac track:  The 5th Exotic
+flac track #:  3
 genre:  New Age
 duration:  249.85333333333332
-error -  'albumartist'
 
-flac title:  Imagine (Imagination 2)
 flac artist:  Fortunato & Montresor
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Imagine (Imagination 2)
+flac track #:  10
 genre:  New Age
 duration:  414.6666666666667
-error -  'albumartist'
 
-flac title:  This Way
 flac artist:  Skanna
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  8
+'albumartist'  - Album artist not found
+flac track:  This Way
+flac track #:  8
 genre:  New Age
 duration:  421.25333333333333
-error -  'albumartist'
 
-flac title:  Les Nuits
 flac artist:  Nightmares On Wax
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  6
+'albumartist'  - Album artist not found
+flac track:  Les Nuits
+flac track #:  6
 genre:  New Age
 duration:  378.2133333333333
-error -  'albumartist'
 
-flac title:  All My Favourite People (Stay With Me)
 flac artist:  A Man Called Adam
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  7
+'albumartist'  - Album artist not found
+flac track:  All My Favourite People (Stay With Me)
+flac track #:  7
 genre:  New Age
 duration:  389.97333333333336
-error -  'albumartist'
 
-flac title:  Textures
 flac artist:  The Amalgamation of Soundz
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  14
+'albumartist'  - Album artist not found
+flac track:  Textures
+flac track #:  14
 genre:  New Age
 duration:  310.04
-error -  'albumartist'
 
-flac title:  Break 4 Love (Skunk Dub)
 flac artist:  Raze
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  15
+'albumartist'  - Album artist not found
+flac track:  Break 4 Love (Skunk Dub)
+flac track #:  15
 genre:  New Age
 duration:  459.36
-error -  'albumartist'
 
-flac title:  Marmalade
 flac artist:  Cagedbaby
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  1
+'albumartist'  - Album artist not found
+flac track:  Marmalade
+flac track #:  1
 genre:  New Age
 duration:  285.8
-error -  'albumartist'
 
-flac title:  Charles
 flac artist:  Beanfield
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  9
+'albumartist'  - Album artist not found
+flac track:  Charles
+flac track #:  9
 genre:  New Age
 duration:  377.5733333333333
-error -  'albumartist'
 
-flac title:  Waltz of Joy
 flac artist:  Constance Demby
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  38
+'albumartist'  - Album artist not found
+flac track:  Waltz of Joy
+flac track #:  38
 genre:  New Age
 duration:  280.14666666666665
-error -  'albumartist'
 
-flac title:  Reishi
 flac artist:  Tura
 flac album:  Cafe Del Mar 35th Anniversary 1980-2015
-track number:  34
+'albumartist'  - Album artist not found
+flac track:  Reishi
+flac track #:  34
 genre:  New Age
 duration:  539.2933333333333
-error -  'albumartist'
 
 mp3 - /home/mark/Music/Café del Mar/Volume 5/05 - 4 Wings - Penelope (Radio Edit).mp3
 Artist: 4 Wings
@@ -25238,813 +25264,837 @@ Track: Come On Grandad
 Genre: Trip-Hop
 Release Year: 2002
 
-flac title:  That's Where You're Wrong
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  12
+flac album artist:  Arctic Monkeys
+flac track:  That's Where You're Wrong
+flac track #:  12
 genre:  Alternative
 duration:  256.8
-flac album artist:  Arctic Monkeys
 
-flac title:  The Hellcat Spangled Shalalala
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  4
+flac album artist:  Arctic Monkeys
+flac track:  The Hellcat Spangled Shalalala
+flac track #:  4
 genre:  Alternative
 duration:  180.32
-flac album artist:  Arctic Monkeys
 
-flac title:  All My Own Stunts
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  7
+flac album artist:  Arctic Monkeys
+flac track:  All My Own Stunts
+flac track #:  7
 genre:  Alternative
 duration:  232.28
-flac album artist:  Arctic Monkeys
 
-flac title:  Love Is A Laserquest
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  10
+flac album artist:  Arctic Monkeys
+flac track:  Love Is A Laserquest
+flac track #:  10
 genre:  Alternative
 duration:  191.42666666666668
-flac album artist:  Arctic Monkeys
 
-flac title:  Piledriver Waltz
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  9
+flac album artist:  Arctic Monkeys
+flac track:  Piledriver Waltz
+flac track #:  9
 genre:  Alternative
 duration:  203.88
-flac album artist:  Arctic Monkeys
 
-flac title:  Reckless Serenade
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  8
+flac album artist:  Arctic Monkeys
+flac track:  Reckless Serenade
+flac track #:  8
 genre:  Alternative
 duration:  162.74666666666667
-flac album artist:  Arctic Monkeys
 
-flac title:  Suck It And See
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  11
+flac album artist:  Arctic Monkeys
+flac track:  Suck It And See
+flac track #:  11
 genre:  Alternative
 duration:  225.98666666666668
-flac album artist:  Arctic Monkeys
 
-flac title:  Library Pictures
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  6
+flac album artist:  Arctic Monkeys
+flac track:  Library Pictures
+flac track #:  6
 genre:  Alternative
 duration:  142.17333333333335
-flac album artist:  Arctic Monkeys
 
-flac title:  She's Thunderstorms
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  1
+flac album artist:  Arctic Monkeys
+flac track:  She's Thunderstorms
+flac track #:  1
 genre:  Alternative
 duration:  234.92
-flac album artist:  Arctic Monkeys
 
-flac title:  Black Treacle
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  2
+flac album artist:  Arctic Monkeys
+flac track:  Black Treacle
+flac track #:  2
 genre:  Alternative
 duration:  215.13333333333333
-flac album artist:  Arctic Monkeys
 
-flac title:  Brick By Brick
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  3
+flac album artist:  Arctic Monkeys
+flac track:  Brick By Brick
+flac track #:  3
 genre:  Alternative
 duration:  179.90666666666667
-flac album artist:  Arctic Monkeys
 
-flac title:  Don't Sit Down 'cause I've Moved Your Chair
 flac artist:  Arctic Monkeys
 flac album:  Suck It And See
-track number:  5
+flac album artist:  Arctic Monkeys
+flac track:  Don't Sit Down 'cause I've Moved Your Chair
+flac track #:  5
 genre:  Alternative
 duration:  183.50666666666666
-flac album artist:  Arctic Monkeys
 
-flac title:  Catapult
 flac artist:  Arctic Monkeys
 flac album:  Cornerstone
-track number:  2
+flac album artist:  Arctic Monkeys
+flac track:  Catapult
+flac track #:  2
 genre:  Indie
 duration:  209.0
-flac album artist:  Arctic Monkeys
 
-flac title:  Sketchead
 flac artist:  Arctic Monkeys
 flac album:  Cornerstone
-track number:  3
+flac album artist:  Arctic Monkeys
+flac track:  Sketchead
+flac track #:  3
 genre:  Indie
 duration:  124.0
-flac album artist:  Arctic Monkeys
 
-flac title:  Fright Lined Dining Room
 flac artist:  Arctic Monkeys
 flac album:  Cornerstone
-track number:  4
+flac album artist:  Arctic Monkeys
+flac track:  Fright Lined Dining Room
+flac track #:  4
 genre:  Indie
 duration:  208.33333333333334
-flac album artist:  Arctic Monkeys
 
-flac title:  Cornerstone
 flac artist:  Arctic Monkeys
 flac album:  Cornerstone
-track number:  1
+flac album artist:  Arctic Monkeys
+flac track:  Cornerstone
+flac track #:  1
 genre:  Indie
 duration:  201.84
-flac album artist:  Arctic Monkeys
 
-flac title:  2013
 flac artist:  Arctic Monkeys
 flac album:  Do I Wanna Know?
-track number:  2
+flac album artist:  Arctic Monkeys
+flac track:  2013
+flac track #:  2
 genre:  Indie Rock
 duration:  146.88739229024944
-flac album artist:  Arctic Monkeys
 
-flac title:  Do I Wanna Know?
 flac artist:  Arctic Monkeys
 flac album:  Do I Wanna Know?
-track number:  1
+flac album artist:  Arctic Monkeys
+flac track:  Do I Wanna Know?
+flac track #:  1
 genre:  Indie Rock
 duration:  273.4241950113379
-flac album artist:  Arctic Monkeys
 
-flac title:  I.D.S.T.
 flac artist:  Arctic Monkeys
 flac album:  Don't Sit Down 'Cause I've Moved Your Chair
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  I.D.S.T.
+flac track #:  03
 genre:  Alternative
 duration:  108.52
-error -  'albumartist'
 
-flac title:  The Blond-O-Sonic Shimmer Trap
 flac artist:  Arctic Monkeys
 flac album:  Don't Sit Down 'Cause I've Moved Your Chair
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  The Blond-O-Sonic Shimmer Trap
+flac track #:  02
 genre:  Alternative
 duration:  204.82666666666665
-error -  'albumartist'
 
-flac title:  Don't Sit Down 'Cause I've Moved Your Chair
 flac artist:  Arctic Monkeys
 flac album:  Don't Sit Down 'Cause I've Moved Your Chair
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Don't Sit Down 'Cause I've Moved Your Chair
+flac track #:  01
 genre:  Alternative
 duration:  183.50666666666666
-error -  'albumartist'
 
-flac title:  Why'd You Only Call Me When You're High?
 flac artist:  Arctic Monkeys
 flac album:  Why'd You Only Call Me When You're High?
-track number:  1
+flac album artist:  Arctic Monkeys
+flac track:  Why'd You Only Call Me When You're High?
+flac track #:  1
 genre:  Pop Rock
 duration:  161.12390022675737
-flac album artist:  Arctic Monkeys
 
-flac title:  The Afternoon's Hat
 flac artist:  Arctic Monekys
 flac album:  My Propeller
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  The Afternoon's Hat
+flac track #:  03
 genre:  Indie Rock
 duration:  251.0
-error -  'albumartist'
 
-flac title:  Don't Forget Whose Legs You're On
 flac artist:  Arctic Monekys
 flac album:  My Propeller
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  Don't Forget Whose Legs You're On
+flac track #:  04
 genre:  Indie Rock
 duration:  215.54666666666665
-error -  'albumartist'
 
-flac title:  Joining The Dots
 flac artist:  Arctic Monekys
 flac album:  My Propeller
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Joining The Dots
+flac track #:  02
 genre:  Indie Rock
 duration:  199.0
-error -  'albumartist'
 
-flac title:  My Propeller
 flac artist:  Arctic Monekys
 flac album:  My Propeller
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  My Propeller
+flac track #:  01
 genre:  Indie Rock
 duration:  205.74666666666667
-error -  'albumartist'
 
-flac title:  Red Right Hand
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  Red Right Hand
+flac track #:  12
 genre:  Alternative
 duration:  259.81333333333333
-error -  'albumartist'
 
-flac title:  I Haven't Got My Strange
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  I Haven't Got My Strange
+flac track #:  11
 genre:  Alternative
 duration:  89.93333333333334
-error -  'albumartist'
 
-flac title:  Dance Little Liar
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  Dance Little Liar
+flac track #:  08
 genre:  Alternative
 duration:  283.49333333333334
-error -  'albumartist'
 
-flac title:  Fire and The Thud
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Fire and The Thud
+flac track #:  06
 genre:  Alternative
 duration:  237.53333333333333
-error -  'albumartist'
 
-flac title:  The Jeweller's Hand
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  The Jeweller's Hand
+flac track #:  10
 genre:  Alternative
 duration:  342.05333333333334
-error -  'albumartist'
 
-flac title:  Cornerstone
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Cornerstone
+flac track #:  07
 genre:  Alternative
 duration:  197.97333333333333
-error -  'albumartist'
 
-flac title:  Crying Lightning
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Crying Lightning
+flac track #:  02
 genre:  Alternative
 duration:  223.16
-error -  'albumartist'
 
-flac title:  Pretty Visitors
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  Pretty Visitors
+flac track #:  09
 genre:  Alternative
 duration:  220.50666666666666
-error -  'albumartist'
 
-flac title:  Dangerous Animals
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Dangerous Animals
+flac track #:  03
 genre:  Alternative
 duration:  210.66666666666666
-error -  'albumartist'
 
-flac title:  Potion Approaching
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Potion Approaching
+flac track #:  05
 genre:  Alternative
 duration:  212.13333333333333
-error -  'albumartist'
 
-flac title:  My Propeller
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  My Propeller
+flac track #:  01
 genre:  Alternative
 duration:  207.52
-error -  'albumartist'
 
-flac title:  Secret Door
 flac artist:  Arctic Monkeys
 flac album:  Humbug [Japanese]
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  Secret Door
+flac track #:  04
 genre:  Alternative
 duration:  223.06666666666666
-error -  'albumartist'
 
-flac title:  Little Illusion Machine (Wirral Riddler)
 flac artist:  Miles Kane and the Death Ramps
 flac album:  The Hellcat Spangled Shalalala
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Little Illusion Machine (Wirral Riddler)
+flac track #:  02
 genre:  Alternative
 duration:  191.10666666666665
-error -  'albumartist'
 
-flac title:  The Hellcat Spangled Shalalala
 flac artist:  Arctic Monkeys
 flac album:  The Hellcat Spangled Shalalala
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  The Hellcat Spangled Shalalala
+flac track #:  01
 genre:  Alternative
 duration:  180.32
-error -  'albumartist'
 
-flac title:  Piledriver Waltz
 flac artist:  Alex Turner
 flac album:  Submarine
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Piledriver Waltz
+flac track #:  06
 genre:  Soundtrack
 duration:  204.88
-error -  'albumartist'
 
-flac title:  Stuck On The Puzzle (Intro)
 flac artist:  Alex Turner
 flac album:  Submarine
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Stuck On The Puzzle (Intro)
+flac track #:  01
 genre:  Soundtrack
 duration:  53.76
-error -  'albumartist'
 
-flac title:  Stuck On The Puzzle
 flac artist:  Alex Turner
 flac album:  Submarine
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Stuck On The Puzzle
+flac track #:  05
 genre:  Soundtrack
 duration:  211.05333333333334
-error -  'albumartist'
 
-flac title:  It's Hard To Get Around The Wind
 flac artist:  Alex Turner
 flac album:  Submarine
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  It's Hard To Get Around The Wind
+flac track #:  04
 genre:  Soundtrack
 duration:  247.01333333333332
-error -  'albumartist'
 
-flac title:  Glass In The Park
 flac artist:  Alex Turner
 flac album:  Submarine
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Glass In The Park
+flac track #:  03
 genre:  Soundtrack
 duration:  239.65333333333334
-error -  'albumartist'
 
-flac title:  Hiding Tonight
 flac artist:  Alex Turner
 flac album:  Submarine
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Hiding Tonight
+flac track #:  02
 genre:  Soundtrack
 duration:  186.72
-error -  'albumartist'
 
-flac title:  Pretty Visitors
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  Pretty Visitors
+flac track #:  09
 genre:  
 duration:  220.50666666666666
-error -  'albumartist'
 
-flac title:  Secret Door
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  Secret Door
+flac track #:  04
 genre:  
 duration:  223.06666666666666
-error -  'albumartist'
 
-flac title:  Fire And The Thud
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Fire And The Thud
+flac track #:  06
 genre:  
 duration:  237.53333333333333
-error -  'albumartist'
 
-flac title:  Potion Approaching
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Potion Approaching
+flac track #:  05
 genre:  
 duration:  212.13333333333333
-error -  'albumartist'
 
-flac title:  Dance Little Liar
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  Dance Little Liar
+flac track #:  08
 genre:  
 duration:  283.49333333333334
-error -  'albumartist'
 
-flac title:  Crying Lightning
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Crying Lightning
+flac track #:  02
 genre:  
 duration:  223.16
-error -  'albumartist'
 
-flac title:  Cornerstone
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Cornerstone
+flac track #:  07
 genre:  
 duration:  197.97333333333333
-error -  'albumartist'
 
-flac title:  The Jeweller's Hands
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  The Jeweller's Hands
+flac track #:  10
 genre:  
 duration:  342.05333333333334
-error -  'albumartist'
 
-flac title:  My Propeller
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  My Propeller
+flac track #:  01
 genre:  
 duration:  207.52
-error -  'albumartist'
 
-flac title:  Dangerous Animals
 flac artist:  Arctic Monkeys
 flac album:  Humbug
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Dangerous Animals
+flac track #:  03
 genre:  
 duration:  210.66666666666666
-error -  'albumartist'
 
-flac title:  Evil Twin
 flac artist:  Arctic Monkeys
 flac album:  Suck It and See
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Evil Twin
+flac track #:  02
 genre:  Alternative
 duration:  197.37333333333333
-error -  'albumartist'
 
-flac title:  Suck It and See
 flac artist:  Arctic Monkeys
 flac album:  Suck It and See
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Suck It and See
+flac track #:  01
 genre:  Alternative
 duration:  225.98666666666668
-error -  'albumartist'
 
-flac title:  When The Sun Goes Down
 flac artist:  Arctic Monkeys
 flac album:  When The Sun Goes Down (CD Single)
-track number:  1
+'albumartist'  - Album artist not found
+flac track:  When The Sun Goes Down
+flac track #:  1
 genre:  Alternative & Punk
 duration:  201.64
-error -  'albumartist'
 
-flac title:  Stickin' To The Floor
 flac artist:  Arctic Monkeys
 flac album:  When The Sun Goes Down (CD Single)
-track number:  2
+'albumartist'  - Album artist not found
+flac track:  Stickin' To The Floor
+flac track #:  2
 genre:  Alternative & Punk
 duration:  80.13333333333334
-error -  'albumartist'
 
-flac title:  7
 flac artist:  Arctic Monkeys
 flac album:  When The Sun Goes Down (CD Single)
-track number:  4
+'albumartist'  - Album artist not found
+flac track:  7
+flac track #:  4
 genre:  Alternative & Punk
 duration:  128.14666666666668
-error -  'albumartist'
 
-flac title:  Settle For A Draw
 flac artist:  Arctic Monkeys
 flac album:  When The Sun Goes Down (CD Single)
-track number:  3
+'albumartist'  - Album artist not found
+flac track:  Settle For A Draw
+flac track #:  3
 genre:  Alternative & Punk
 duration:  195.06666666666666
-error -  'albumartist'
 
-flac title:  SOS
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  12
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  SOS
+flac track #:  12
+'genre'  - Genre not found
+duration:  253.58666666666667
 
-flac title:  Brainstorm
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  1
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Brainstorm
+flac track #:  1
+'genre'  - Genre not found
+duration:  170.25333333333333
 
-flac title:  Teddy Picker
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  2
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Teddy Picker
+flac track #:  2
+'genre'  - Genre not found
+duration:  163.14666666666668
 
-flac title:  Old Yellow Bricks
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  11
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Old Yellow Bricks
+flac track #:  11
+'genre'  - Genre not found
+duration:  191.22666666666666
 
-flac title:  Only Ones Who Know
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  6
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Only Ones Who Know
+flac track #:  6
+'genre'  - Genre not found
+duration:  182.76
 
-flac title:  Flourescent Adolescent
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  5
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Flourescent Adolescent
+flac track #:  5
+'genre'  - Genre not found
+duration:  177.53333333333333
 
-flac title:  Balaclava
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  4
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Balaclava
+flac track #:  4
+'genre'  - Genre not found
+duration:  169.22666666666666
 
-flac title:  This House Is A Circus
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  8
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  This House Is A Circus
+flac track #:  8
+'genre'  - Genre not found
+duration:  189.68
 
-flac title:  If You Were There Beware
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  9
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  If You Were There Beware
+flac track #:  9
+'genre'  - Genre not found
+duration:  274.2
 
-flac title:  The Bad Thing
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  10
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  The Bad Thing
+flac track #:  10
+'genre'  - Genre not found
+duration:  143.21333333333334
 
-flac title:  Do Me A Favour
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  7
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  Do Me A Favour
+flac track #:  7
+'genre'  - Genre not found
+duration:  207.25333333333333
 
-flac title:  D is for Dangerous
 flac artist:  Arctic Monkeys
 flac album:  Favourite Worst Nightmare
-track number:  3
-error -  'genre'
+'albumartist'  - Album artist not found
+flac track:  D is for Dangerous
+flac track #:  3
+'genre'  - Genre not found
+duration:  136.10666666666665
 
-flac title:  You Probably Couldn't See For The Lights, But You Were Staring Straight At Me
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  You Probably Couldn't See For The Lights, But You Were Staring Straight At Me
+flac track #:  04
 genre:  Indie
 duration:  141.93333333333334
-error -  'albumartist'
 
-flac title:  Dancing Shoes
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Dancing Shoes
+flac track #:  07
 genre:  Indie
 duration:  170.81333333333333
-error -  'albumartist'
 
-flac title:  Perhaps Vampires Is A Bit Strong But...
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Perhaps Vampires Is A Bit Strong But...
+flac track #:  06
 genre:  Indie
 duration:  235.08
-error -  'albumartist'
 
-flac title:  I Bet You Look Good On The Dancefloor
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  I Bet You Look Good On The Dancefloor
+flac track #:  08
 genre:  Indie
 duration:  187.46666666666667
-error -  'albumartist'
 
-flac title:  A Certain Romance
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  A Certain Romance
+flac track #:  10
 genre:  Indie
 duration:  406.32
-error -  'albumartist'
 
-flac title:  Riot Van
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Riot Van
+flac track #:  01
 genre:  Indie
 duration:  237.78666666666666
-error -  'albumartist'
 
-flac title:  The View From The Afternoon
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  The View From The Afternoon
+flac track #:  02
 genre:  Indie
 duration:  235.73333333333332
-error -  'albumartist'
 
-flac title:  Still Take You Home
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Still Take You Home
+flac track #:  03
 genre:  Indie
 duration:  153.56
-error -  'albumartist'
 
-flac title:  When The Sun Goes Down
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  When The Sun Goes Down
+flac track #:  09
 genre:  Indie
 duration:  217.22666666666666
-error -  'albumartist'
 
-flac title:  Cigarette Smoker Fiona
 flac artist:  Arctic Monkeys
 flac album:  Live In Texas (7 June 2006)
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Cigarette Smoker Fiona
+flac track #:  05
 genre:  Indie
 duration:  178.2
-error -  'albumartist'
 
-flac title:  R U Mine?
 flac artist:  Arctic Monkeys
 flac album:  R U Mine? / Electricity
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  R U Mine?
+flac track #:  01
 genre:  Alternative
 duration:  200.18759637188208
-error -  'albumartist'
 
-flac title:  Electricity
 flac artist:  Arctic Monkeys
 flac album:  R U Mine? / Electricity
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Electricity
+flac track #:  02
 genre:  Alternative
 duration:  181.53673469387755
-error -  'albumartist'
 
-flac title:  You and I
 flac artist:  Richard Hawley and the Death Ramps
 flac album:  Black Treacle
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  You and I
+flac track #:  02
 genre:  Alternative
 duration:  206.98666666666668
-error -  'albumartist'
 
-flac title:  Black Treacle
 flac artist:  Arctic Monkeys
 flac album:  Black Treacle
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Black Treacle
+flac track #:  01
 genre:  Alternative
 duration:  215.13333333333333
-error -  'albumartist'
 
-flac title:  Still Take You Home
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Still Take You Home
+flac track #:  06
 genre:  Indie
 duration:  173.66666666666666
-error -  'albumartist'
 
-flac title:  When The Sun Goes Down
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  When The Sun Goes Down
+flac track #:  11
 genre:  Indie
 duration:  200.01333333333332
-error -  'albumartist'
 
-flac title:  Perhaps Vampires Is A Bit Strong But..
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Perhaps Vampires Is A Bit Strong But..
+flac track #:  10
 genre:  Indie
 duration:  268.62666666666667
-error -  'albumartist'
 
-flac title:  Riot Van
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Riot Van
+flac track #:  07
 genre:  Indie
 duration:  134.93333333333334
-error -  'albumartist'
 
-flac title:  From The Ritz To The Rubble
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  12
+'albumartist'  - Album artist not found
+flac track:  From The Ritz To The Rubble
+flac track #:  12
 genre:  Indie
 duration:  193.42666666666668
-error -  'albumartist'
 
-flac title:  Red Light Indicates Doors Are Secured
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  Red Light Indicates Doors Are Secured
+flac track #:  08
 genre:  Indie
 duration:  143.62666666666667
-error -  'albumartist'
 
-flac title:  I Bet You Look Good On The Dancefloor
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  I Bet You Look Good On The Dancefloor
+flac track #:  02
 genre:  Indie
 duration:  173.68
-error -  'albumartist'
 
-flac title:  A Certain Romance
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  13
+'albumartist'  - Album artist not found
+flac track:  A Certain Romance
+flac track #:  13
 genre:  Indie
 duration:  331.2
-error -  'albumartist'
 
-flac title:  Fake Tales Of San Francisco
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Fake Tales Of San Francisco
+flac track #:  03
 genre:  Indie
 duration:  177.94666666666666
-error -  'albumartist'
 
-flac title:  The View From The Afternoon
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  The View From The Afternoon
+flac track #:  01
 genre:  Indie
 duration:  218.13333333333333
-error -  'albumartist'
 
-flac title:  Dancing Shoes
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  Dancing Shoes
+flac track #:  04
 genre:  Indie
 duration:  141.13333333333333
-error -  'albumartist'
 
-flac title:  You Probably Couldn't See For The Lights But You Were Staring Straight At Me
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  You Probably Couldn't See For The Lights But You Were Staring Straight At Me
+flac track #:  05
 genre:  Indie
 duration:  130.81333333333333
-error -  'albumartist'
 
-flac title:  Mardy Bum
 flac artist:  Arctic Monkeys
 flac album:  Whatever People Say I Am, That's What I'm Not
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  Mardy Bum
+flac track #:  09
 genre:  Indie
 duration:  175.44
-error -  'albumartist'
 
-flac title:  I Bet You Look Good on the Dancefloor
 flac artist:  Arctic Monkeys
 flac album:  I Bet You Look Good On The Dancefloor
-track number:  01/03
+'albumartist'  - Album artist not found
+flac track:  I Bet You Look Good on the Dancefloor
+flac track #:  01/03
 genre:  Indie Rock
 duration:  174.46666666666667
-error -  'albumartist'
 
-flac title:  Chun Li's Spinning Bird Kick
 flac artist:  Arctic Monkeys
 flac album:  I Bet You Look Good On The Dancefloor
-track number:  03/03
+'albumartist'  - Album artist not found
+flac track:  Chun Li's Spinning Bird Kick
+flac track #:  03/03
 genre:  Indie Rock
 duration:  280.6933333333333
-error -  'albumartist'
 
-flac title:  Bigger Boys and Stolen Sweethearts
 flac artist:  Arctic Monkeys
 flac album:  I Bet You Look Good On The Dancefloor
-track number:  02/03
+'albumartist'  - Album artist not found
+flac track:  Bigger Boys and Stolen Sweethearts
+flac track #:  02/03
 genre:  Indie Rock
 duration:  178.64
-error -  'albumartist'
 
 mp3 - /home/mark/Music/Love/Forever Changes/09 - Love - The Good Humor Man He Sees Everything Like This.mp3
 Artist: Love
@@ -26276,93 +26326,93 @@ Length: 341800
 Genre: Folk-Rock
 Release Year: 1999
 
-flac title:  How Far
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  8
+'albumartist'  - Album artist not found
+flac track:  How Far
+flac track #:  8
 genre:  Folk
 duration:  267.26666666666665
-error -  'albumartist'
 
-flac title:  Sugar Boy
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  5
+'albumartist'  - Album artist not found
+flac track:  Sugar Boy
+flac track #:  5
 genre:  Folk
 duration:  261.2
-error -  'albumartist'
 
-flac title:  I Wish I Never Saw The Sunshine
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  I Wish I Never Saw The Sunshine
+flac track #:  10
 genre:  Folk
 duration:  283.06666666666666
-error -  'albumartist'
 
-flac title:  Whenever
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  7
+'albumartist'  - Album artist not found
+flac track:  Whenever
+flac track #:  7
 genre:  Folk
 duration:  233.53333333333333
-error -  'albumartist'
 
-flac title:  Don't Need A Reason
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  3
+'albumartist'  - Album artist not found
+flac track:  Don't Need A Reason
+flac track #:  3
 genre:  Folk
 duration:  304.5733333333333
-error -  'albumartist'
 
-flac title:  Live As You Dream
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  4
+'albumartist'  - Album artist not found
+flac track:  Live As You Dream
+flac track #:  4
 genre:  Folk
 duration:  179.13333333333333
-error -  'albumartist'
 
-flac title:  Touch Me With Your Love
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  6
+'albumartist'  - Album artist not found
+flac track:  Touch Me With Your Love
+flac track #:  6
 genre:  Folk
 duration:  447.6666666666667
-error -  'albumartist'
 
-flac title:  Tangent
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  2
+'albumartist'  - Album artist not found
+flac track:  Tangent
+flac track #:  2
 genre:  Folk
 duration:  449.0
-error -  'albumartist'
 
-flac title:  She Cries Your Name
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  1
+'albumartist'  - Album artist not found
+flac track:  She Cries Your Name
+flac track #:  1
 genre:  Folk
 duration:  287.3333333333333
-error -  'albumartist'
 
-flac title:  Galaxy Of Emptiness
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  Galaxy Of Emptiness
+flac track #:  11
 genre:  Folk
 duration:  607.76
-error -  'albumartist'
 
-flac title:  Someone's Daughter
 flac artist:  Beth Orton
 flac album:  Trailer Park
-track number:  9
+'albumartist'  - Album artist not found
+flac track:  Someone's Daughter
+flac track #:  9
 genre:  Folk
 duration:  256.1333333333333
-error -  'albumartist'
 
 mp3 - /home/mark/Music/Faze Action/Plans & Designs/04 - Faze Action - In The Trees.mp3
 Artist: Faze Action
@@ -27124,93 +27174,93 @@ Length: 249933
 Genre: Indie
 Release Year: 2000
 
-flac title:  Tattoos
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  06
+'albumartist'  - Album artist not found
+flac track:  Tattoos
+flac track #:  06
 genre:  Electro Swing
 duration:  207.19698412698412
-error -  'albumartist'
 
-flac title:  Russian
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  08
+'albumartist'  - Album artist not found
+flac track:  Russian
+flac track #:  08
 genre:  Electro Swing
 duration:  241.220589569161
-error -  'albumartist'
 
-flac title:  Wonderland
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  05
+'albumartist'  - Album artist not found
+flac track:  Wonderland
+flac track #:  05
 genre:  Electro Swing
 duration:  190.37637188208618
-error -  'albumartist'
 
-flac title:  Lone Digger
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  01
+'albumartist'  - Album artist not found
+flac track:  Lone Digger
+flac track #:  01
 genre:  Electro Swing
 duration:  229.49551020408163
-error -  'albumartist'
 
-flac title:  Comics
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  02
+'albumartist'  - Album artist not found
+flac track:  Comics
+flac track #:  02
 genre:  Electro Swing
 duration:  212.61825396825398
-error -  'albumartist'
 
-flac title:  Midnight
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  07
+'albumartist'  - Album artist not found
+flac track:  Midnight
+flac track #:  07
 genre:  Electro Swing
 duration:  205.9190022675737
-error -  'albumartist'
 
-flac title:  Lay Down
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  11
+'albumartist'  - Album artist not found
+flac track:  Lay Down
+flac track #:  11
 genre:  Electro Swing
 duration:  190.24151927437643
-error -  'albumartist'
 
-flac title:  Human Leather Shoes for Crocodile Dandies
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  10
+'albumartist'  - Album artist not found
+flac track:  Human Leather Shoes for Crocodile Dandies
+flac track #:  10
 genre:  Electro Swing
 duration:  273.64861678004536
-error -  'albumartist'
 
-flac title:  Mighty (feat. JFTH)
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  03
+'albumartist'  - Album artist not found
+flac track:  Mighty (feat. JFTH)
+flac track #:  03
 genre:  Electro Swing
 duration:  202.1643537414966
-error -  'albumartist'
 
-flac title:  Wonda
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  09
+'albumartist'  - Album artist not found
+flac track:  Wonda
+flac track #:  09
 genre:  Electro Swing
 duration:  224.65092970521542
-error -  'albumartist'
 
-flac title:  Aftermath
 flac artist:  Caravan Palace
 flac album:  <I°_°I>
-track number:  04
+'albumartist'  - Album artist not found
+flac track:  Aftermath
+flac track #:  04
 genre:  Electro Swing
 duration:  185.62666666666667
-error -  'albumartist'
 
 mp3 - /home/mark/Music/The Stone Roses/Second Coming/08 - Tightrope.mp3
 Artist: The Stone Roses
