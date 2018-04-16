@@ -52,6 +52,9 @@ def genre(audio, filename):
 def duration(audio, filename):
     """Print the duration."""
     try:
-        print("duration: ", audio.info.length)
+        duration = audio.info.length
+        duration = int(round(duration))
+        str_duration = '{}m{}s'.format(*divmod(duration, 60))
+        print("duration: ", str_duration)
     except Exception as error:
         print(error, " - Duration not found")
