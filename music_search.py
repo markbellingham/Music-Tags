@@ -1,9 +1,7 @@
 """Program to output tags from music files."""
 
 import os
-import mutagen
 from mutagen.flac import FLAC
-from mutagen.id3 import ID3
 from mutagen.mp3 import MP3
 # from mutagen.mp3 import EasyMP3 as MP3
 
@@ -14,6 +12,14 @@ def artist(audio, filename):
         print("Artist: %s" % audio['TPE1'].text[0])
     except Exception as error:
         print(error, " - Artist not found.")
+
+
+def album_artist(audio, filename):
+    """Print the Album Artist."""
+    try:
+        print("Album Artist: %s" % audio['TPE2'].text[0])
+    except Exception as error:
+        print(error, " - Album Artist not found.")
 
 
 def album(audio, filename):
@@ -81,9 +87,11 @@ def main():
         for filename in files:
             filename = os.path.join(root, filename)
             if filename.endswith('.mp3'):
+                print("mp3 - " + filename)
                 try:
                     audio = MP3(filename)
                     artist(audio, filename) or \
+                        album_artist(audio, filename) or \
                         album(audio, filename) or \
                         trackno(audio, filename) or \
                         trackna(audio, filename) or \
@@ -96,8 +104,19 @@ def main():
                 finally:
                     print()
             elif filename.endswith('.flac'):
-                print("flac - " + filename)
-                print()
+                try:
+                    audio = FLAC(filename)
+                    print("flac title: ", audio['title'][0])
+                    print("flac artist: ", audio['artist'][0])
+                    print("flac album: ", audio['album'][0])
+                    print("track number: ", audio['tracknumber'][0])
+                    print("genre: ", audio['genre'][0])
+                    print("duration: ", audio.info.length)
+                    print("flac album artist: ", audio['albumartist'][0])
+                except Exception as error:
+                    print("error - ", error)
+                finally:
+                    print()
 
 
 main()
