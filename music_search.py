@@ -8,7 +8,7 @@ import music_tag_list_mp3 as mtl_mp3
 import music_tag_list_flac as mtl_flac
 
 
-def main():
+def get_tag_values():
     """Main controller."""
     # Specify the root directory
     path = "/home/mark/Music/"
@@ -26,37 +26,39 @@ def main():
             filename = os.path.join(root, filename)
             if filename.endswith('.mp3'):
                 audio = MP3(filename)
-                print(mtl_mp3.artist(audio))
-                print(mtl_mp3.album_artist(audio))
-                print(mtl_mp3.album(audio))
-                print(mtl_mp3.trackno(audio))
-                print(mtl_mp3.trackna(audio))
-                print(mtl_mp3.length(audio))
-                print(mtl_mp3.genre(audio))
-                print(mtl_mp3.year(audio))
-                print()
+
+                artist = mtl_mp3.artist(audio)
+                album_artist = mtl_mp3.album_artist(audio)
+                album = mtl_mp3.album(audio)
+                trackno = mtl_mp3.trackno(audio)
+                trackna = mtl_mp3.trackna(audio)
+                duration = mtl_mp3.length(audio)
+                genre = mtl_mp3.genre(audio)
+                year = mtl_mp3.year(audio)
+
             elif filename.endswith('.flac'):
                 audio = FLAC(filename)
-                print(mtl_flac.artist(audio))
-                print(mtl_flac.album_artist(audio))
-                print(mtl_flac.album(audio))
-                print(mtl_flac.trackno(audio))
-                print(mtl_flac.trackna(audio))
-                print(mtl_flac.duration(audio))
-                print(mtl_flac.genre(audio))
-                print(mtl_flac.year(audio))
-                print()
+
+                artist = mtl_flac.artist(audio)
+                album_artist = mtl_flac.album_artist(audio)
+                album = mtl_flac.album(audio)
+                trackno = mtl_flac.trackno(audio)
+                trackna = mtl_flac.trackna(audio)
+                duration = mtl_flac.duration(audio)
+                genre = mtl_flac.genre(audio)
+                year = mtl_flac.year(audio)
+
             elif filename.endswith('.ogg'):
                 audio = OggVorbis(filename)
-                print(mtl_flac.artist(audio))
-                print(mtl_flac.album_artist(audio))
-                print(mtl_flac.album(audio))
-                print(mtl_flac.trackno(audio))
-                print(mtl_flac.trackna(audio))
-                print(mtl_flac.duration(audio))
-                print(mtl_flac.genre(audio))
-                print(mtl_flac.year(audio))
-                print()
+
+                artist = mtl_flac.artist(audio)
+                album_artist = mtl_flac.album_artist(audio)
+                album = mtl_flac.album(audio)
+                trackno = mtl_flac.trackno(audio)
+                trackna = mtl_flac.trackna(audio)
+                duration = mtl_flac.duration(audio)
+                genre = mtl_flac.genre(audio)
+                year = mtl_flac.year(audio)
 
 
-main()
+get_tag_values()
