@@ -54,7 +54,7 @@ def duration(audio, filename):
     try:
         duration = audio.info.length
         duration = int(round(duration))
-        str_duration = '{}m{}s'.format(*divmod(duration, 60))
+        str_duration = '{}m{:02d}s'.format(*divmod(duration, 60))
         print("duration: ", str_duration)
     except Exception as error:
         print(error, " - Duration not found")

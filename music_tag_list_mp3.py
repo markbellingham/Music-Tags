@@ -44,7 +44,10 @@ def trackna(audio, filename):
 def length(audio, filename):
     """Print the length."""
     try:
-        print("Length: %s" % audio['TLEN'].text[0])
+        duration = audio['TLEN'].text[0]
+        duration = round(int(duration) / 1000)
+        str_duration = '{}m{:02d}s'.format(*divmod(duration, 60))
+        print("Length: %s" % str_duration)
     except Exception as error:
         print(error, " - Length not found.")
 
