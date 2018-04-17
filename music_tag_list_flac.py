@@ -58,3 +58,11 @@ def duration(audio, filename):
         print("duration: ", str_duration)
     except Exception as error:
         print(error, " - Duration not found")
+
+
+def year(audio, filename):
+    """Print the year."""
+    try:
+        print("Release year: ", audio['date'][0])
+    except Exception as error:
+        print(error, " - Year not found")

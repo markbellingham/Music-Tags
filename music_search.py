@@ -44,12 +44,13 @@ def main():
                 try:
                     audio = FLAC(filename)
                     mtl_flac.artist(audio, filename) or \
-                        mtl_flac.album(audio, filename) or \
                         mtl_flac.album_artist(audio, filename) or \
-                        mtl_flac.trackna(audio, filename) or \
+                        mtl_flac.album(audio, filename) or \
                         mtl_flac.trackno(audio, filename) or \
+                        mtl_flac.trackna(audio, filename) or \
+                        mtl_flac.duration(audio, filename) or \
                         mtl_flac.genre(audio, filename) or \
-                        mtl_flac.duration(audio, filename)
+                        mtl_flac.year(audio, filename)
                 except Exception as error:
                     print("error - ", error)
                 finally:
@@ -57,13 +58,14 @@ def main():
             elif filename.endswith('.ogg'):
                 try:
                     audio = OggVorbis(filename)
-                    mtl_flac.album(audio, filename) or \
-                        mtl_flac.album(audio, filename) or \
+                    mtl_flac.artist(audio, filename) or \
                         mtl_flac.album_artist(audio, filename) or \
-                        mtl_flac.trackna(audio, filename) or \
+                        mtl_flac.album(audio, filename) or \
                         mtl_flac.trackno(audio, filename) or \
+                        mtl_flac.trackna(audio, filename) or \
+                        mtl_flac.duration(audio, filename) or \
                         mtl_flac.genre(audio, filename) or \
-                        mtl_flac.duration(audio, filename)
+                        mtl_flac.year(audio, filename)
                 except Exception as error:
                     print("error - ", error)
                 finally:
