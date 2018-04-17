@@ -25,51 +25,38 @@ def main():
         for filename in files:
             filename = os.path.join(root, filename)
             if filename.endswith('.mp3'):
-                try:
-                    audio = MP3(filename)
-                    mtl_mp3.artist(audio, filename) or \
-                        mtl_mp3.album_artist(audio, filename) or \
-                        mtl_mp3.album(audio, filename) or \
-                        mtl_mp3.trackno(audio, filename) or \
-                        mtl_mp3.trackna(audio, filename) or \
-                        mtl_mp3.length(audio, filename) or \
-                        mtl_mp3.genre(audio, filename) or \
-                        mtl_mp3.year(audio, filename)
-                except Exception as error:
-                    print("mp3 - " + filename)
-                    print(error)
-                finally:
-                    print()
+                audio = MP3(filename)
+                print(mtl_mp3.artist(audio))
+                print(mtl_mp3.album_artist(audio))
+                print(mtl_mp3.album(audio))
+                print(mtl_mp3.trackno(audio))
+                print(mtl_mp3.trackna(audio))
+                print(mtl_mp3.length(audio))
+                print(mtl_mp3.genre(audio))
+                print(mtl_mp3.year(audio))
+                print()
             elif filename.endswith('.flac'):
-                try:
-                    audio = FLAC(filename)
-                    mtl_flac.artist(audio, filename) or \
-                        mtl_flac.album_artist(audio, filename) or \
-                        mtl_flac.album(audio, filename) or \
-                        mtl_flac.trackno(audio, filename) or \
-                        mtl_flac.trackna(audio, filename) or \
-                        mtl_flac.duration(audio, filename) or \
-                        mtl_flac.genre(audio, filename) or \
-                        mtl_flac.year(audio, filename)
-                except Exception as error:
-                    print("error - ", error)
-                finally:
-                    print()
+                audio = FLAC(filename)
+                print(mtl_flac.artist(audio))
+                print(mtl_flac.album_artist(audio))
+                print(mtl_flac.album(audio))
+                print(mtl_flac.trackno(audio))
+                print(mtl_flac.trackna(audio))
+                print(mtl_flac.duration(audio))
+                print(mtl_flac.genre(audio))
+                print(mtl_flac.year(audio))
+                print()
             elif filename.endswith('.ogg'):
-                try:
-                    audio = OggVorbis(filename)
-                    mtl_flac.artist(audio, filename) or \
-                        mtl_flac.album_artist(audio, filename) or \
-                        mtl_flac.album(audio, filename) or \
-                        mtl_flac.trackno(audio, filename) or \
-                        mtl_flac.trackna(audio, filename) or \
-                        mtl_flac.duration(audio, filename) or \
-                        mtl_flac.genre(audio, filename) or \
-                        mtl_flac.year(audio, filename)
-                except Exception as error:
-                    print("error - ", error)
-                finally:
-                    print()
+                audio = OggVorbis(filename)
+                print(mtl_flac.artist(audio))
+                print(mtl_flac.album_artist(audio))
+                print(mtl_flac.album(audio))
+                print(mtl_flac.trackno(audio))
+                print(mtl_flac.trackna(audio))
+                print(mtl_flac.duration(audio))
+                print(mtl_flac.genre(audio))
+                print(mtl_flac.year(audio))
+                print()
 
 
 main()

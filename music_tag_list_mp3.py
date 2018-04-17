@@ -1,68 +1,68 @@
 """Functions for mp3 files."""
 
 
-def artist(audio, filename):
-    """Print the Artist name."""
+def artist(audio):
+    """Return the Artist name."""
     try:
-        print("Artist: %s" % audio['TPE1'].text[0])
-    except Exception as error:
-        print(error, " - Artist not found.")
+        return (audio['TPE1'].text[0])
+    except Exception:
+        return (" ")
 
 
-def album_artist(audio, filename):
-    """Print the Album Artist."""
+def album_artist(audio):
+    """Return the Album Artist."""
     try:
-        print("Album Artist: %s" % audio['TPE2'].text[0])
-    except Exception as error:
-        print(error, " - Album Artist not found.")
+        return(audio['TPE2'].text[0])
+    except Exception:
+        return(" ")
 
 
-def album(audio, filename):
-    """Print the Album name."""
+def album(audio):
+    """Return the Album name."""
     try:
-        print("Album: %s" % audio['TALB'].text[0])
-    except Exception as error:
-        print(error, " - Album not found.")
+        return(audio['TALB'].text[0])
+    except Exception:
+        return(" ")
 
 
-def trackno(audio, filename):
-    """Print the Track #."""
+def trackno(audio):
+    """Return the Track #."""
     try:
-        print("Track #: %s" % audio['TRCK'].text[0])
-    except Exception as error:
-        print(error, " - Track number not found.")
+        return(audio['TRCK'].text[0])
+    except Exception:
+        return(" ")
 
 
-def trackna(audio, filename):
-    """Print the track name."""
+def trackna(audio):
+    """Return the track name."""
     try:
-        print("Track: %s" % audio["TIT2"].text[0])
-    except Exception as error:
-        print(error, " - Track name not found.")
+        return(audio["TIT2"].text[0])
+    except Exception:
+        return(" ")
 
 
-def length(audio, filename):
-    """Print the length."""
+def length(audio):
+    """Return the length."""
     try:
         duration = audio['TLEN'].text[0]
         duration = round(int(duration) / 1000)
         str_duration = '{}m{:02d}s'.format(*divmod(duration, 60))
-        print("Length: %s" % str_duration)
-    except Exception as error:
-        print(error, " - Length not found.")
+        return(str_duration)
+    except Exception:
+        return(" ")
 
 
-def genre(audio, filename):
-    """Print the genre."""
+def genre(audio):
+    """Return the genre."""
     try:
-        print("Genre: %s" % audio['TCON'].text[0])
-    except Exception as error:
-        print(error, " - Genre not found.")
+        return(audio['TCON'].text[0])
+    except Exception:
+        return(" ")
 
 
-def year(audio, filename):
-    """Print the Year."""
+def year(audio):
+    """Return the Year."""
     try:
-        print("Release Year: %s" % audio["TDRC"].text[0])
-    except Exception as error:
-        print(error, " - Year not found.")
+        return(audio["TDRC"].text[0])
+    except Exception:
+        return(" ")

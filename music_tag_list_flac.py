@@ -1,68 +1,68 @@
 """Functions for flac files."""
 
 
-def artist(audio, filename):
-    """Print the artist name."""
+def artist(audio):
+    """Return the artist name."""
     try:
-        print("flac artist: ", audio['artist'][0])
-    except Exception as error:
-        print(error, " - Artist not found")
+        return(audio['artist'][0])
+    except Exception:
+        return(" ")
 
 
-def album(audio, filename):
-    """Print the album name."""
+def album(audio):
+    """Return the album name."""
     try:
-        print("flac album: ", audio['album'][0])
-    except Exception as error:
-        print(error, " - Album not found")
+        return(audio['album'][0])
+    except Exception:
+        return(" ")
 
 
-def album_artist(audio, filename):
-    """Print the album artist name."""
+def album_artist(audio):
+    """Return the album artist name."""
     try:
-        print("flac album artist: ", audio['albumartist'][0])
-    except Exception as error:
-        print(error, " - Album artist not found")
+        return(audio['albumartist'][0])
+    except Exception:
+        return(" ")
 
 
-def trackna(audio, filename):
-    """Print the track name."""
+def trackna(audio):
+    """Return the track name."""
     try:
-        print("flac track: ", audio['title'][0])
-    except Exception as error:
-        print(error, " - Track name not found")
+        return(audio['title'][0])
+    except Exception:
+        return(" ")
 
 
-def trackno(audio, filename):
-    """Print the track number."""
+def trackno(audio):
+    """Return the track number."""
     try:
-        print("flac track #: ", audio['tracknumber'][0])
-    except Exception as error:
-        print(error, " - Track # not found")
+        return(audio['tracknumber'][0])
+    except Exception:
+        return(" ")
 
 
-def genre(audio, filename):
-    """Print the genre."""
+def genre(audio):
+    """Return the genre."""
     try:
-        print("genre: ", audio['genre'][0])
-    except Exception as error:
-        print(error, " - Genre not found")
+        return(audio['genre'][0])
+    except Exception:
+        return(" ")
 
 
-def duration(audio, filename):
-    """Print the duration."""
+def duration(audio):
+    """Return the duration."""
     try:
         duration = audio.info.length
         duration = int(round(duration))
         str_duration = '{}m{:02d}s'.format(*divmod(duration, 60))
-        print("duration: ", str_duration)
-    except Exception as error:
-        print(error, " - Duration not found")
+        return(str_duration)
+    except Exception:
+        return(" ")
 
 
-def year(audio, filename):
-    """Print the year."""
+def year(audio):
+    """Return the year."""
     try:
-        print("Release year: ", audio['date'][0])
-    except Exception as error:
-        print(error, " - Year not found")
+        return(audio['date'][0])
+    except Exception:
+        return(" ")
