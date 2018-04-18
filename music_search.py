@@ -1,6 +1,7 @@
 """Program to output tags from music files."""
 
 import os
+# import MySQLdb
 from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
 from mutagen.oggvorbis import OggVorbis
@@ -74,9 +75,8 @@ def main():
     '''
     albums = []
 
-    with open('music_db.sql', 'w') as f:
-        sql = "INSERT INTO music\n (artist, album-artist, album, genre, year)\n VALUES\n "
-        f.write(sql)
+    sql = "INSERT INTO music (artist, album-artist, album, genre, year) VALUES (%s, %s, %s, %s, %s)"
+    data = []
 
     '''
     Search the filesystem. For each audio file found, create a
@@ -89,10 +89,15 @@ def main():
             at = get_tag_values(filename)
             if at['album'] not in albums:
                 albums.append(at['album'])
-                with open('music_db.sql', 'a') as f:
-                    f.write('("' + at['artist'] + '","' + at['album_artist']
-                            + '","' + at['album'] + '","' + at['genre'] + '","'
-                            + str(at['year']) + '"),\n')
+                album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year'])]
+                data.append(album)
+
+    # cursor.executemany(sql, data)
+    with open('music_db.sql', 'w') as f:
+        f.write(sql + '\n')
+        for x in data:
+            f.write(', '.join(x) + ',\n')
+    f.closed
 
 
 main()
