@@ -12,10 +12,10 @@ import music_tag_list_flac as mtl_flac
 
 '''
 Notes:
-The program generates lists for artist, album_artist, album and tracks
-Once tables have been created, the primary key for artist and album_artist can
-replace their name in the albums table. The printout from the script should
-first be checked for errors and duplicates.
+The program generates lists for artist, album_artist, album and tracks.
+Once tables have been created, the primary key for artist, album_artist and
+genre can replace their name in the albums and tracks tables. The printout from
+the script should first be checked for errors and duplicates of the artists.
 '''
 
 
@@ -80,41 +80,57 @@ def main():
     path = "/home/mark/Music/"
 
     '''
-    This will hold the list of albums  and artists so that
-    the tracks do not generate duplicates
+    This will hold the list of albums, artists and genres so that separate
+    tables can be created.
     '''
     albums = []
     artists = []
+    genres = []
+    track = []
 
     sql = "INSERT INTO music (artist, album-artist, album, genre, year) VALUES (%s, %s, %s, %s, %s)"
-    data = []
+    album_data = []
+    track_data = []
 
     '''
-    Search the filesystem. For each audio file found, create a
-        full filename including the path and pass it to the
-        relevant decoder to extract the tags
+    Search the filesystem. For each audio file found, create a full filename
+    including the path and pass it to the relevant decoder to extract the tags.
     '''
     for root, subdir, files in os.walk(path):
         for filename in files:
-            filename = os.path.join(root, filename)
-            at = get_tag_values(filename)
+            full_filename = os.path.join(root, filename)
+            at = get_tag_values(full_filename)
             if at['artist'] not in artists:
                 artists.append(at['artist'])
             if at['album_artist'] not in artists:
                 artists.append(at['album_artist'])
+            if at['genre'] not in genres:
+                genres.append(at['genre'])
             if at['album'] not in albums:
                 albums.append(at['album'])
                 album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year'])]
-                data.append(album)
+                album_data.append(album)
+            track = [at['trackno'], at['trackna'], at['artist'], at['album_artist'], at['genre'], str(at['year'])]
+            track_data.append(track)
 
-    # cursor.executemany(sql, data)
+    # cursor.executemany(sql, artist_data)
+    # cursor.executemany(sql, album_artist_data)
+    # cursor.executemany(sql, album_data)
+    # cursor.executemany(sql, track_data)
+
     with open('music_db.sql', 'w') as f:
         f.write(sql + '\n')
-        for x in data:
+        for x in album_data:
             f.write('("' + '","'.join(x) + '"),\n')
         f.write('\n')
         for x in artists:
             f.write(x + '\n')
+        f.write('\n')
+        for x in genres:
+            f.write(x + '\n')
+        f.write('\n')
+        for x in track_data:
+            f.write('("' + '","'.join(x) + '"),\n')
     f.close()
 
 
