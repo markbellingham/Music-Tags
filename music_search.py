@@ -1,5 +1,6 @@
 """Program to output tags from music files."""
 
+
 import os
 # import MySQLdb
 from mutagen.flac import FLAC
@@ -7,6 +8,15 @@ from mutagen.mp3 import MP3
 from mutagen.oggvorbis import OggVorbis
 import music_tag_list_mp3 as mtl_mp3
 import music_tag_list_flac as mtl_flac
+
+
+'''
+Notes:
+The program generates lists for artist, album_artist, album and tracks
+Once tables have been created, the primary key for artist and album_artist can
+replace their name in the albums table. The printout from the script should
+first be checked for errors and duplicates.
+'''
 
 
 def get_tag_values(filename):
@@ -70,10 +80,11 @@ def main():
     path = "/home/mark/Music/"
 
     '''
-    This will hold the list of albums so that
+    This will hold the list of albums  and artists so that
     the tracks do not generate duplicates
     '''
     albums = []
+    artists = []
 
     sql = "INSERT INTO music (artist, album-artist, album, genre, year) VALUES (%s, %s, %s, %s, %s)"
     data = []
@@ -87,6 +98,10 @@ def main():
         for filename in files:
             filename = os.path.join(root, filename)
             at = get_tag_values(filename)
+            if at['artist'] not in artists:
+                artists.append(at['artist'])
+            if at['album_artist'] not in artists:
+                artists.append(at['album_artist'])
             if at['album'] not in albums:
                 albums.append(at['album'])
                 album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year'])]
@@ -96,8 +111,11 @@ def main():
     with open('music_db.sql', 'w') as f:
         f.write(sql + '\n')
         for x in data:
-            f.write(', '.join(x) + ',\n')
-    f.closed
+            f.write('("' + '","'.join(x) + '"),\n')
+        f.write('\n')
+        for x in artists:
+            f.write(x + '\n')
+    f.close()
 
 
 main()
