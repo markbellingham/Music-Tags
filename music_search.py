@@ -2,7 +2,7 @@
 
 
 import os
-# import MySQLdb
+import database as db
 from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
 from mutagen.oggvorbis import OggVorbis
@@ -88,7 +88,7 @@ def main():
     genres = []
     track = []
 
-    sql = "INSERT INTO music (artist, album-artist, album, genre, year) VALUES (%s, %s, %s, %s, %s)"
+    album_sql = "INSERT INTO albums (artist, album_artist, title, genre, year) VALUES (%s, %s, %s, %s, %s)"
     album_data = []
     track_data = []
 
@@ -115,23 +115,23 @@ def main():
 
     # cursor.executemany(sql, artist_data)
     # cursor.executemany(sql, album_artist_data)
-    # cursor.executemany(sql, album_data)
+    db.insert_many(album_sql, album_data)
     # cursor.executemany(sql, track_data)
 
-    with open('music_db.sql', 'w') as f:
-        f.write(sql + '\n')
-        for x in album_data:
-            f.write('("' + '","'.join(x) + '"),\n')
-        f.write('\n')
-        for x in artists:
-            f.write(x + '\n')
-        f.write('\n')
-        for x in genres:
-            f.write(x + '\n')
-        f.write('\n')
-        for x in track_data:
-            f.write('("' + '","'.join(x) + '"),\n')
-    f.close()
+    # with open('music_db.sql', 'w') as f:
+    #     f.write(sql + '\n')
+    #     for x in album_data:
+    #         f.write('("' + '","'.join(x) + '"),\n')
+    #     f.write('\n')
+    #     for x in artists:
+    #         f.write(x + '\n')
+    #     f.write('\n')
+    #     for x in genres:
+    #         f.write(x + '\n')
+    #     f.write('\n')
+    #     for x in track_data:
+    #         f.write('("' + '","'.join(x) + '"),\n')
+    # f.close()
 
 
 main()
