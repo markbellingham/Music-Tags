@@ -88,7 +88,10 @@ def main():
     genres = []
     track = []
 
-    album_sql = "INSERT INTO albums (artist, album_artist, title, genre, year) VALUES (%s, %s, %s, %s, %s)"
+    genre_sql = "INSERT INTO genres (genre) VALUES (%s)"
+    artist_sql = "INSERT INTO artists (artist) VALUES (%s)"
+    album_sql = "INSERT INTO albums (artist, album_artist, title, genre, year, image) VALUES (%s, %s, %s, %s, %s, %s)"
+    track_sql = "INSERT INTO tracks (track_no, track_name, album_title, duration, filename, image) VALUES (%s, %s, %s, %s, %s, %s)"
     album_data = []
     track_data = []
 
@@ -100,6 +103,7 @@ def main():
         for filename in files:
             full_filename = os.path.join(root, filename)
             at = get_tag_values(full_filename)
+            image = (str(root) + "/folder.jpg")
             if at['artist'] not in artists:
                 artists.append(at['artist'])
             if at['album_artist'] not in artists:
@@ -108,15 +112,18 @@ def main():
                 genres.append(at['genre'])
             if at['album'] not in albums:
                 albums.append(at['album'])
-                album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year'])]
+                album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year']), image]
                 album_data.append(album)
-            track = [at['trackno'], at['trackna'], at['artist'], at['album_artist'], at['genre'], str(at['year'])]
+            track = [at['trackno'], at['trackna'], at['album'], at['duration'], str(full_filename), image]
             track_data.append(track)
 
-    # cursor.executemany(sql, artist_data)
-    # cursor.executemany(sql, album_artist_data)
+    db.insert_many(genre_sql, genres)
+    db.insert_many(artist_sql, artists)
+    print(album_data)
+    print()
     db.insert_many(album_sql, album_data)
-    # cursor.executemany(sql, track_data)
+    print(track_data)
+    db.insert_many(track_sql, track_data)
 
     # with open('music_db.sql', 'w') as f:
     #     f.write(sql + '\n')
