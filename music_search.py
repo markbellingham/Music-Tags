@@ -119,10 +119,11 @@ def main():
 
     db.insert_many(genre_sql, genres)
     db.insert_many(artist_sql, artists)
-    print(album_data)
-    print()
     db.insert_many(album_sql, album_data)
-    print(track_data)
+    # n = 1
+    # for values in track_data:
+    #     print(n, values)
+    #     n = n + 1
     db.insert_many(track_sql, track_data)
 
     # with open('music_db.sql', 'w') as f:
