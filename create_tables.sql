@@ -31,3 +31,16 @@ CREATE TABLE tracks (
   duration VARCHAR(10),
   filename VARCHAR(200)
 );
+
+-----------------------------------------------------------------------
+
+ALTER TABLE tracks ADD COLUMN album_id INT(10),
+ADD CONSTRAINT fk_album_id FOREIGN KEY (album_id) REFERENCES albums (album_id);
+
+ALTER TABLE albums ADD COLUMN genre_id INT(10),
+ADD CONSTRAINT fk_genre FOREIGN KEY (genre_id) REFERENCES genres (genre_id);
+
+ALTER TABLE albums ADD COLUMN artist_id INT(10),
+ADD CONSTRAINT fk_artist_id FOREIGN KEY (artist_id) REFERENCES artists (artist_id);
+
+-----------------------------------------------------------------------
