@@ -29,6 +29,5 @@ CREATE TABLE tracks (
   track_name VARCHAR(100),
   album_title VARCHAR(100),
   duration VARCHAR(10),
-  filename VARCHAR(200),
-  image VARCHAR(150)
+  filename VARCHAR(200)
 );
