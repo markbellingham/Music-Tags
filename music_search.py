@@ -81,7 +81,7 @@ def main():
 
     '''
     This will hold the list of albums, artists and genres so that separate
-    tables can be created.
+    tables can be created without duplicates.
     '''
     albums = []
     artists = []
@@ -91,9 +91,12 @@ def main():
     genre_sql = "INSERT INTO genres (genre) VALUES (%s)"
     artist_sql = "INSERT INTO artists (artist) VALUES (%s)"
     album_sql = "INSERT INTO albums (artist, album_artist, title, genre, year, image) VALUES (%s, %s, %s, %s, %s, %s)"
-    track_sql = "INSERT INTO tracks (track_no, track_name, album_title, duration, filename, image) VALUES (%s, %s, %s, %s, %s, %s)"
+    track_sql = "INSERT INTO tracks (track_no, track_name, album_title, duration, filename) VALUES (%s, %s, %s, %s, %s)"
     album_data = []
     track_data = []
+
+    'Supported filetypes'
+    ext = ('mp3', 'flac', 'ogg')
 
     '''
     Search the filesystem. For each audio file found, create a full filename
@@ -102,20 +105,21 @@ def main():
     for root, subdir, files in os.walk(path):
         for filename in files:
             full_filename = os.path.join(root, filename)
-            at = get_tag_values(full_filename)
-            image = (str(root) + "/folder.jpg")
-            if at['artist'] not in artists:
-                artists.append(at['artist'])
-            if at['album_artist'] not in artists:
-                artists.append(at['album_artist'])
-            if at['genre'] not in genres:
-                genres.append(at['genre'])
-            if at['album'] not in albums:
-                albums.append(at['album'])
-                album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year']), image]
-                album_data.append(album)
-            track = [at['trackno'], at['trackna'], at['album'], at['duration'], str(full_filename), image]
-            track_data.append(track)
+            if filename.endswith(tuple(ext)):
+                at = get_tag_values(full_filename)
+                image = (str(root) + "/folder.jpg")
+                if at['artist'] not in artists:
+                    artists.append(at['artist'])
+                if at['album_artist'] not in artists:
+                    artists.append(at['album_artist'])
+                if at['genre'] not in genres:
+                    genres.append(at['genre'])
+                if at['album'] not in albums:
+                    albums.append(at['album'])
+                    album = [at['artist'], at['album_artist'], at['album'], at['genre'], str(at['year']), image]
+                    album_data.append(album)
+                track = [at['trackno'], at['trackna'], at['album'], at['duration'], str(full_filename)]
+                track_data.append(track)
 
     db.insert_many(genre_sql, genres)
     db.insert_many(artist_sql, artists)
