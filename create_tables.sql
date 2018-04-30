@@ -44,3 +44,17 @@ ALTER TABLE albums ADD COLUMN artist_id INT(10),
 ADD CONSTRAINT fk_artist_id FOREIGN KEY (artist_id) REFERENCES artists (artist_id);
 
 -----------------------------------------------------------------------
+
+UPDATE albums JOIN artists ON albums.artist = artists.artist
+SET albums.artist_id = artists.artist_id
+WHERE albums.artist = artists.artist;
+
+UPDATE albums JOIN genres ON albums.genre = genres.genre
+SET albums.genre_id = genres.genre_id
+WHERE albums.genre = genres.genre;
+
+-- Checks for duplicates in the albums table
+SELECT title
+FROM albums
+GROUP BY title
+HAVING count(*) > 1;
