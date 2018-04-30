@@ -58,3 +58,7 @@ SELECT title
 FROM albums
 GROUP BY title
 HAVING count(*) > 1;
+
+UPDATE tracks JOIN albums ON tracks.album_title = albums.title
+SET tracks.album_id = albums.album_id
+WHERE tracks.album_title = albums.title;
